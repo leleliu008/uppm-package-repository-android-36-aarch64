@@ -1,0 +1,255 @@
+name: publish
+
+on:
+  workflow_dispatch
+
+jobs:
+
+  build1:
+    strategy:
+      fail-fast: false
+      matrix:
+        pkg: [aalib, abook, acl, act, actionlint, adig, aerc, ag, age, alass, algernon, amfora, antibody, aom, apkeep, aptly, archiver, args, aria2, arping, awk, aws-lc, axel, azcopy, b3sum, base16, base64, bash, basis_universal, bat, bc, bcrypt, bear, berkeley-db, bgrep, binaryen, bind, binocle, bison, bit, bk, blockhash, boringssl, boxes, brook, broot, brotli, bsdtar, bullet, byacc, bzip2, cabin, caddy, cargo-c, cargo-make, catch2, ccache, cereal, cflow, cgal, cheat, check, chezmoi, chinese-calendar, chisel, choose, cilium-cli, cli11, clog, cmake, cmake@3, cmark, cmatrix, cmocka, coreutils, cotp, cpio, cppcheck, cpptoml, cppunit, cpuid, cpuinfo, croc, crosstool-ng, crowbook, ctop, cue, curl, curlie, cxxopts, d2, darkhttpd, dasel, dash, dashing, dav1d, delta, desktop-file-utils, difftastic, diffutils, dns2tcp, dnslookup, dnsmap, dnsx, dog, doggo, dos2unix, dot_static, doxygen, dtc, dua, duf, dufs, duktape, dust, easyutils, ed, elftool, elvish, epsilon, erdtree, esbuild, ethereum, exa, exhale, exiv2, eza, faac, faad2, fcp, fd, fdk-aac, fdroidcl, fff, ffmpeg, figlet, file, findent, findutils, fish@3, flac, flatc, flex, flock, fontconfig, fribidi, fselect, fsmon, fswatch, fx, fzf, fzy, g, garble, gat, gawk, gbt, gdk-pixbuf, gdu, geographiclib, germanium, getopt, gettext, gettext-tools, gf, gh, ghr, gif, gindent, git, git-cliff, git-lfs, gitui, gitwatch, glab, glib-tools, glow, glslang, gm4, gmake, gn, gnu-barcode, gnupg, gnuplot, gnu-which, godu, gogs, golang, go-md2man, gomobile, google-benchmark, gopls, goreleaser, gosh, go-tools, gotop, gotty, gox, gperf, gping, gpsim, gputils, graphicsmagick, graphqxl, graphviz, grep, grex, gron, grpc-plugins, gsed, gtar, gtime, gum, gzip, halibut, hdiffpatch, helix, helm, hexdump, hexyl, htop, htslib, httpx, hugo, hunspell, hurl, hwloc, hydroxide, hyperfine, iconv, ideviceinstaller, invoice, ipinfo, iw, jbig2dec, jfrog-cli, jj, jpegoptim, jq, json-glib, jump, keybase, kibi, ko, lame, lazygit, lazysql, lcms2, lcov, ldns, less, lf, libaec, libaio, libao, libargp]
+
+    runs-on: ubuntu-latest
+
+    container: ubuntu:26.04
+
+    steps:
+      - run: apt -y update
+      - run: apt -y install curl
+
+      - run: curl -LO https://raw.githubusercontent.com/leleliu008/ndk-pkg/master/ndk-pkg
+      - run: chmod a+x ndk-pkg
+
+      - run: ./ndk-pkg about
+      - run: ./ndk-pkg setup
+      - run: ./ndk-pkg update
+
+      - run: |
+          sed -i 's/libcares//'    ~/.ndk-pkg/repos.d/official-core/formula/curl.yml
+          sed -i '/enable-ares/d'  ~/.ndk-pkg/repos.d/official-core/formula/curl.yml
+          sed -i 's/libcares//'    ~/.ndk-pkg/repos.d/official-core/formula/libcurl.yml
+          sed -i '/enable-ares/d'  ~/.ndk-pkg/repos.d/official-core/formula/libcurl.yml
+
+      - run: ./ndk-pkg install android-36-arm64-v8a/${{ matrix.pkg }}
+
+      - name: bundle
+        run: |
+          set -ex
+
+          for item in $(./ndk-pkg ls-installed)
+          do
+              ./ndk-pkg bundle "$item" .tar.xz
+
+              PACKAGE_SUMMARY="$(./ndk-pkg show "$item" summary)"
+              PACKAGE_WEB_URL="$(./ndk-pkg show "$item" web-url)"
+              PACKAGE_VERSION="$(./ndk-pkg show "$item" version)"
+
+              PACKAGE_NAME="${item#*/}"
+
+              PACKAGE_FILENAME="$(ls ${PACKAGE_NAME%@*}-$PACKAGE_VERSION-*.tar.xz)"
+
+              PACKAGE_BIN_SHA="$(sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
+
+              PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
+
+              cat > "$PACKAGE_NAME.yml" <<EOF
+          summary: $PACKAGE_SUMMARY
+          webpage: $PACKAGE_WEB_URL
+          version: $PACKAGE_VERSION
+          bin-url: $PACKAGE_BIN_URL
+          bin-sha: $PACKAGE_BIN_SHA
+          EOF
+          done
+
+      - uses: actions/upload-artifact@v6
+        with:
+          name: ${{ matrix.pkg }}
+          path: |
+            ./*.tar.xz
+            ./*.yml
+
+  build2:
+    strategy:
+      fail-fast: false
+      matrix:
+        pkg: [libasprintf, libass, libasync++, libatomic_ops, libb2, libb64, libbacktrace, libbcrypt, libblkid, libbluray, libcaca, libcbor, libcddb, libcdio, libcfitsio, libcgif, libcpr, libcroco, libczmq, libduktape, libelf, libexhale, libexiv2, libfaac, libfdisk, libfdt, libfts, libgdk-pixbuf, libgeotiff, libgetdomainname, libgetsubopt, libglm, libgraphene, libhexdump, libical, libid3, libilbc, libimagequant, libintl-lite, libirecovery, libisl, libisoburn, libixwebsocket, libjpeg, libkcp, libkvazaar, libldns, libleveldb, libLIEF, liblinear, liblmdb, liblua, libluajit, libmaxminddb, libmblen, libmd, libmetalink, libmhash, libmicrohttpd, libmill, libmimalloc, libminiupnpc, libminiz, libmount, libmpc, libmpir, libmupdf, libneon, libnetpbm, libnfc, libnfs, libnng, libnova, libobstack, libode, liboggz, libolm, libopencc, libopencolorio, libopenh264, libopusenc, liborc, libp11-kit, libphonenumber, libphysfs, libpipeline, libpng++, libproj7, libprotobuf.a, libpugixml, libqalculate, libqpdf, libqrencode, libquiche, libraqm, libraw, libre, libre2c, librecode, libressl, librist, librtmp, libsamplerate, libsdl3, libsigsegv, libsimdjson, libslirp, libsmartcols, libsmi, libsndfile, libsoundtouch, libspatialite, libspectre, libspiro, libspng, libsrt, libsrtp, libssh@0.11, libsvg, libsvm, libtbox, libtcmalloc, libtextstyle, libthai, libtinyalsa, libtinyxml2, libtorrent-rasterbar, libtwolame, libunbound, libuninameslist, libunwind, libupnp, libusrsctp, libuvwasi, libvips, libwavpack, libwebm, libwget, libwmf, libwv2, libxcrypt, libxmlb, libyuv, libz3, libzim, libzlog, lighttpd, livego, lmdb, lnd, lodepng, log4cplus, lolcat, lrzip, lsd, lsof, luajit, luau, lunzip, lychee, lynx, lz4, lzip, lzop, magic_enum, mawk, mcfly, md4c, mdbook, mediainfo, minisign, mm-wiki, mold, mosh, mozjpeg, mp3splt, mpdecimal, mpg123, mruby@3.0.0, mruby@3.2.0, msgpack-c, mujs, naabu, nano, nanomsg, nap, nasm, navi, ncdu, ncurses, ndk-pkg-core, neofetch, netcat, nethogs, netpbm, nghttp2, nginx, ninja, nnn, nsh, ntbtls, nuclei, numactl, nushell, oat++, obfs4proxy, oboe, oggz, okta-aws-cli, onefetch, opa, openal-soft, opencc, opencolorio, opencv, openexr, openjpeg, openjph, openlibm, openmpi, openssl, openssl-fips, orcc, p7zip, packcc, patch, patchelf, pbzip2, pcapplusplus, pcre2grep, pegof, pget, pigz, pjsip, pkgconf, pkg-config, plog, plzip, png, pngcheck, pngquant, pngsplit, poco, ppkg, procs, progress, proj, proot2, protobuf, psimd, pup, putty, pv, pybind11, q, qalc]
+
+    runs-on: ubuntu-latest
+
+    container: ubuntu:26.04
+
+    steps:
+      - run: apt -y update
+      - run: apt -y install curl
+
+      - run: curl -LO https://raw.githubusercontent.com/leleliu008/ndk-pkg/master/ndk-pkg
+      - run: chmod a+x ndk-pkg
+
+      - run: ./ndk-pkg about
+      - run: ./ndk-pkg setup
+      - run: ./ndk-pkg update
+
+      - run: |
+          sed -i 's/libcares//'    ~/.ndk-pkg/repos.d/official-core/formula/curl.yml
+          sed -i '/enable-ares/d'  ~/.ndk-pkg/repos.d/official-core/formula/curl.yml
+          sed -i 's/libcares//'    ~/.ndk-pkg/repos.d/official-core/formula/libcurl.yml
+          sed -i '/enable-ares/d'  ~/.ndk-pkg/repos.d/official-core/formula/libcurl.yml
+
+      - run: ./ndk-pkg install android-36-arm64-v8a/${{ matrix.pkg }}
+
+      - name: bundle
+        run: |
+          set -ex
+
+          for item in $(./ndk-pkg ls-installed)
+          do
+              ./ndk-pkg bundle "$item" .tar.xz
+
+              PACKAGE_SUMMARY="$(./ndk-pkg show "$item" summary)"
+              PACKAGE_WEB_URL="$(./ndk-pkg show "$item" web-url)"
+              PACKAGE_VERSION="$(./ndk-pkg show "$item" version)"
+
+              PACKAGE_NAME="${item#*/}"
+
+              PACKAGE_FILENAME="$(ls ${PACKAGE_NAME%@*}-$PACKAGE_VERSION-*.tar.xz)"
+
+              PACKAGE_BIN_SHA="$(sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
+
+              PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
+
+              cat > "$PACKAGE_NAME.yml" <<EOF
+          summary: $PACKAGE_SUMMARY
+          webpage: $PACKAGE_WEB_URL
+          version: $PACKAGE_VERSION
+          bin-url: $PACKAGE_BIN_URL
+          bin-sha: $PACKAGE_BIN_SHA
+          EOF
+          done
+
+      - uses: actions/upload-artifact@v6
+        with:
+          name: ${{ matrix.pkg }}
+          path: |
+            ./*.tar.xz
+            ./*.yml
+
+  build3:
+    strategy:
+      fail-fast: false
+      matrix:
+        pkg: [qpdf, qrencode, quickjs, ragel, rancher, rang, rapidjson, rav1e, rclone, re2c, recode, restic, resvg, rhash, ripgrep, ripgrep-all, rlwrap, robin-map, rover, rsass, rsync, rtmpdump, rtorrent, ruff, rust-analyzer, rustscan, samurai, sassc, scc, scdoc, sd, shaderc, shc, shell2http, shellharden, shiori, sig, silicon, sjpeg, skcms, sl, sndfile, speex, sqlite3, squashfs-tools-ng, starship, stdbuf, stwolame, stylua, subfinder, superfile, supervisord, suricata, svn-lite, svt-av1, swig, syncthing, sysinfo, szip, taglib, tarlz, tcl, tcpdump, tcping, tdu, tealdeer, tectonic, tengo, tic, tiff, tig, tinyalsa, tinysearch, tlrc, tmux, tokei, toml++, toml11, totp-cli, tree, trietool, ttyd, ttygif, ttyrec, tut, tweego, typos, uctags, unbound, unrar, unzip, uppm, uppm@0.15.2, uppm@0.15.3, uppm@0.15.4, usbmuxd, utf8.h, uthash, uutils-coreutils, valijson, vegeta, vim, virustotal-cli, vulkan-headers, wabt, wasm3, wasmer, wasmtime, watchexec, wavpack, webhook, webp, websocat, wget, wget2, whois, wolfssl, wuzz, x264, x265, xh, xmake, xmlstarlet, xmlutils, xmlwf, xorriso, xpup, xsltproc, xxd, xxhash, xz, yasm, youtubedr, yq, yyjson, zip, zlib, zlib-ng, zola, zopfli, zoxide, zsh, zstd, zsync]
+
+    runs-on: ubuntu-latest
+
+    container: ubuntu:26.04
+
+    steps:
+      - run: apt -y update
+      - run: apt -y install curl
+
+      - run: curl -LO https://raw.githubusercontent.com/leleliu008/ndk-pkg/master/ndk-pkg
+      - run: chmod a+x ndk-pkg
+
+      - run: ./ndk-pkg about
+      - run: ./ndk-pkg setup
+      - run: ./ndk-pkg update
+
+      - run: |
+          sed -i 's/libcares//'    ~/.ndk-pkg/repos.d/official-core/formula/curl.yml
+          sed -i '/enable-ares/d'  ~/.ndk-pkg/repos.d/official-core/formula/curl.yml
+          sed -i 's/libcares//'    ~/.ndk-pkg/repos.d/official-core/formula/libcurl.yml
+          sed -i '/enable-ares/d'  ~/.ndk-pkg/repos.d/official-core/formula/libcurl.yml
+
+      - run: ./ndk-pkg install android-36-arm64-v8a/${{ matrix.pkg }}
+
+      - name: bundle
+        run: |
+          set -ex
+
+          for item in $(./ndk-pkg ls-installed)
+          do
+              ./ndk-pkg bundle "$item" .tar.xz
+
+              PACKAGE_SUMMARY="$(./ndk-pkg show "$item" summary)"
+              PACKAGE_WEB_URL="$(./ndk-pkg show "$item" web-url)"
+              PACKAGE_VERSION="$(./ndk-pkg show "$item" version)"
+
+              PACKAGE_NAME="${item#*/}"
+
+              PACKAGE_FILENAME="$(ls ${PACKAGE_NAME%@*}-$PACKAGE_VERSION-*.tar.xz)"
+
+              PACKAGE_BIN_SHA="$(sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
+
+              PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
+
+              cat > "$PACKAGE_NAME.yml" <<EOF
+          summary: $PACKAGE_SUMMARY
+          webpage: $PACKAGE_WEB_URL
+          version: $PACKAGE_VERSION
+          bin-url: $PACKAGE_BIN_URL
+          bin-sha: $PACKAGE_BIN_SHA
+          EOF
+          done
+
+      - uses: actions/upload-artifact@v6
+        with:
+          name: ${{ matrix.pkg }}
+          path: |
+            ./*.tar.xz
+            ./*.yml
+
+  publish:
+    needs: [build1, build2, build3]
+
+    runs-on: ubuntu-latest
+
+    env:
+      GH_TOKEN: ${{ github.token }}
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/download-artifact@v8
+        with:
+          pattern: '*'
+          path: .
+          merge-multiple: true
+
+      - run: ls
+
+      - id: tagname
+        run: |
+          TAGNAME="$(date +%Y.%m.%d)"
+          printf 'TAGNAME=%s\n' "$TAGNAME" >> "GITHUB_OUTPUT"
+
+      - run: sed -i 's|@TAGNAME@|${{ steps.tagname.outputs.TAGNAME }}|' *.yml
+
+      - run: mv *.yml formula/
+
+      - run: |
+          DIRNAME="uppm-formula-repository-android-36-aarch64-${{ steps.tagname.outputs.TAGNAME }}"
+
+          install -d "$DIRNAME"
+
+          cp -r formula "$DIRNAME/"
+
+          tar cvJf "$DIRNAME.tar.xz" "$DIRNAME"
+
+      - run: |
+          gh release create ${{ steps.tagname.outputs.TAGNAME }} --title ${{ steps.tagname.outputs.TAGNAME }} --notes 'These packages are created by [ndk-pkg](https://github.com/leleliu008/ndk-pkg)'
+
+          for f in *.tar.xz
+          do
+            sleep 1s
+            gh release upload ${{ steps.tagname.outputs.TAGNAME }} "$f"
+          done
+
+      - run: git config --global user.name  leleliu008
+      - run: git config --global user.email leleliu008@gmail.com
+
+      - run: git pull
+      - run: git add formula
+      - run: git commit -m 'release new version ${{ steps.tagname.outputs.TAGNAME }}'
+      - run: git push origin master
