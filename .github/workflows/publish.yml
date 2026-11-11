@@ -13,12 +13,7 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    container: ubuntu:26.04
-
     steps:
-      - run: apt -y update
-      - run: apt -y install curl
-
       - run: curl -LO https://raw.githubusercontent.com/leleliu008/ndk-pkg/master/ndk-pkg
       - run: chmod a+x ndk-pkg
 
@@ -78,12 +73,7 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    container: ubuntu:26.04
-
     steps:
-      - run: apt -y update
-      - run: apt -y install curl
-
       - run: curl -LO https://raw.githubusercontent.com/leleliu008/ndk-pkg/master/ndk-pkg
       - run: chmod a+x ndk-pkg
 
@@ -143,12 +133,7 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    container: ubuntu:26.04
-
     steps:
-      - run: apt -y update
-      - run: apt -y install curl
-
       - run: curl -LO https://raw.githubusercontent.com/leleliu008/ndk-pkg/master/ndk-pkg
       - run: chmod a+x ndk-pkg
 
