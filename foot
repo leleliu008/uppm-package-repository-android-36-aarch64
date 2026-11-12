@@ -17,7 +17,7 @@
       - id: tagname
         run: |
           TAGNAME="$(date +%Y.%m.%d)"
-          printf 'TAGNAME=%s\n' "$TAGNAME" >> "GITHUB_OUTPUT"
+          printf 'TAGNAME=%s\n' "$TAGNAME" >> "$GITHUB_OUTPUT"
 
       - run: sed -i 's|@TAGNAME@|${{ steps.tagname.outputs.TAGNAME }}|' *.yml
 
