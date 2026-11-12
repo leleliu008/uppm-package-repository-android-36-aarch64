@@ -1,0 +1,5 @@
+summary: Minimalistic Netlink Library based Linux kernel interfaces
+webpage: https://netfilter.org/projects/libmnl
+version: 1.0.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libmnl-1.0.5-android-36-arm64-v8a.release.tar.xz
+bin-sha: aaf98f561457f82b02f7d618946c3e9d0fb1c25c9f6f1b7d134e41bcfd82aef7

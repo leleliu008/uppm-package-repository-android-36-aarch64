@@ -1,0 +1,5 @@
+summary: Key-value storage library with ordered mapping
+webpage: https://github.com/google/leveldb
+version: 1.23
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libleveldb-1.23-android-36-arm64-v8a.release.tar.xz
+bin-sha: a0828df9ce18ed7eee577c8dab5152b5c3ab48f8e312fa747d74b2ddd52965ee

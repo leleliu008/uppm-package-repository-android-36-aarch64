@@ -1,0 +1,5 @@
+summary: A GitLab CLI tool bringing GitLab to your command line
+webpage: https://gitlab.com/gitlab-org/cli
+version: 1.130.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/glab-1.130.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 490e7be45cb29b2e106c9f7ecb26beef9717c4e067d42bccc1e4751218fb2e4f

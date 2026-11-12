@@ -1,0 +1,5 @@
+summary: A command-line tool for benchmarking
+webpage: https://github.com/sharkdp/hyperfine
+version: 2.0.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/hyperfine-2.0.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: f55bd415ab428f9795efb8a99167c8b0d4a310d8664b98ddaf8396db8caf417f

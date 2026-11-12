@@ -1,0 +1,5 @@
+summary: High dynamic-range image file format
+webpage: https://www.openexr.com/
+version: 3.5.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libopenexr-3.5.3-android-36-arm64-v8a.release.tar.xz
+bin-sha: edf0649a3dfd15dae17010ea0438e3fc4922dc01e1e8f22978b15d3243d52ec0

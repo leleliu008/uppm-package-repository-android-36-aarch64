@@ -1,0 +1,5 @@
+summary: Simulating articulated rigid body dynamics
+webpage: https://www.ode.org/
+version: 0.16.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libode-0.16.6-android-36-arm64-v8a.release.tar.xz
+bin-sha: 0bd0634a6aba8316967e76ce46073ca85a10e3f98f07783cca2212dbffbed8bd

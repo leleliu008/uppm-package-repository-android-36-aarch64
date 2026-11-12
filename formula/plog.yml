@@ -1,0 +1,5 @@
+summary: A portable, simple and extensible logging library for C++
+webpage: https://github.com/SergiusTheBest/plog
+version: 1.1.11
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/plog-1.1.11-android-aarch64.release.tar.xz
+bin-sha: 20482e5568aeb34f0bc299dc3590d90a7cb8dc743b6856ab8ee1cdccc8421b86

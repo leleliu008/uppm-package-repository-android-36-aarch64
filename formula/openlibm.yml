@@ -1,0 +1,5 @@
+summary: High quality, portable, open source libm implementation
+webpage: https://openlibm.org
+version: 0.8.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/openlibm-0.8.8-android-36-arm64-v8a.release.tar.xz
+bin-sha: f932f729ff09cb069221dffa9f010a24a8e96986c14880279b7007b7d31a5b7d

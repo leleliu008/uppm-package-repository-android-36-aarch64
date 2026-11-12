@@ -1,0 +1,5 @@
+summary: A user-space implementation of chroot, mount --bind, and binfmt_misc
+webpage: https://proot-me.github.io
+version: 5.1.107
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/proot2-5.1.107-android-36-arm64-v8a.release.tar.xz
+bin-sha: 45f31f66a6fe0711f07261298e4e4ec3bc0a2c695f38a23612543e25017b6e7f

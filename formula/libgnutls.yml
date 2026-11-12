@@ -1,0 +1,5 @@
+summary: GNU Transport Layer Security (TLS) Library
+webpage: https://www.gnutls.org/
+version: 3.8.13
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libgnutls-3.8.13-android-36-arm64-v8a.release.tar.xz
+bin-sha: a97c79b6e4a22218d2e3abb30c223a825b99f21621e5427af977104664a55ad2

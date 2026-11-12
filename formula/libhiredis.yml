@@ -1,0 +1,5 @@
+summary: Minimalistic client for Redis
+webpage: https://github.com/redis/hiredis
+version: 1.5.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libhiredis-1.5.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: e4172c36cf469fdda2fcc185472dc69fb08810097d1b60bb33883ad6ed6e2ca3

@@ -1,0 +1,5 @@
+summary: A complete, cross-platform solution to record, convert and stream audio and video
+webpage: https://ffmpeg.org/
+version: 9.0.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/ffmpeg-9.0.2-android-36-arm64-v8a.release.tar.xz
+bin-sha: a59be9ee3b5217a8200d24768ed070554d7747ce70e86b30cfcc49f887a4ab2e

@@ -1,0 +1,5 @@
+summary: AV1 decoder targeted to be small and fast
+webpage: https://code.videolan.org/
+version: 1.5.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libdav1d-1.5.4-android-36-arm64-v8a.release.tar.xz
+bin-sha: 8c0a1921f4d7b3885127fdeee57d0b761c3d86a4796c514c4068c5c6c45b84ae

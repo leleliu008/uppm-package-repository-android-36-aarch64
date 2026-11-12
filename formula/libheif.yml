@@ -1,0 +1,5 @@
+summary: ISO/IEC 23008-12:2017 HEIF file format decoder and encoder
+webpage: https://www.libde265.org/
+version: 1.23.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libheif-1.23.7-android-36-arm64-v8a.release.tar.xz
+bin-sha: 77b0baa9f1aeaa7bc8b7d920605146103f8cde7802536b27064b2f6155a776d6

@@ -1,0 +1,5 @@
+summary: Library for userspace RCU (read-copy-update)
+webpage: https://liburcu.org
+version: 0.15.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/liburcu-0.15.7-android-36-arm64-v8a.release.tar.xz
+bin-sha: 5ed15a0f4720c4e1c2bbefb28eb02c4a1478f5453d059c84afb94bb2e9e52695

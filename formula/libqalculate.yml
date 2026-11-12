@@ -1,0 +1,5 @@
+summary: Library for Qalculate! program
+webpage: https://qalculate.github.io/
+version: 5.13.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libqalculate-5.13.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: 6d6877cab7ac018c037e47ae536b6baa5b2c3d43bed366ab2a6c3019659a33bb

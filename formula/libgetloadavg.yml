@@ -1,0 +1,5 @@
+summary: get system load averages
+webpage: https://man7.org/linux/man-pages/man3/getloadavg.3.html
+version: 1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libgetloadavg-1-android-36-arm64-v8a.release.tar.xz
+bin-sha: 84ec3ab895f2b7114c0198f5341ef9112f39dbf9657ff4409bfebb568012210b

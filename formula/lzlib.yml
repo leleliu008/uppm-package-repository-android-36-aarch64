@@ -1,0 +1,5 @@
+summary: Data compression library
+webpage: https://www.nongnu.org/lzip/lzlib.html
+version: 1.16
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/lzlib-1.16-android-36-arm64-v8a.release.tar.xz
+bin-sha: a8cdcd1e55a12fba22120d8fcee77494bd5e14b97cf66a333c499c3b1db79752

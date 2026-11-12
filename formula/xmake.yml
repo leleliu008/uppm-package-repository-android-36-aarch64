@@ -1,0 +1,5 @@
+summary: A cross-platform build utility based on Lua
+webpage: https://xmake.io/
+version: 3.1.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/xmake-3.1.2-android-36-arm64-v8a.release.tar.xz
+bin-sha: 13f3def0e687918f39e214d8c3d3ed98d129440a1c03438057a089a8e7ca424d

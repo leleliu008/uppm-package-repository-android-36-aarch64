@@ -1,0 +1,5 @@
+summary: SkCMS
+webpage: https://skia.googlesource.com/skcms.git
+version: 2026.11.12
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/skcms-2026.11.12-android-36-arm64-v8a.release.tar.xz
+bin-sha: 1ffe13912a7015473fd581d9691f141ca223022d26732ce08ca477181c14445b

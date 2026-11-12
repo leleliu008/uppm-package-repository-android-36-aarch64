@@ -1,0 +1,5 @@
+summary: C++ Testing and Mocking Framework by Google
+webpage: https://github.com/google/googletest
+version: 1.18.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/googletest-1.18.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 1d5231983c2cb1817c630aeec932fefd401261e994400e6693d382c3bab084f6

@@ -1,0 +1,5 @@
+summary: grep with Perl-compatible regular expressions
+webpage: https://www.pcre.org/
+version: 10.49
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/pcre2grep-10.49-android-36-arm64-v8a.release.tar.xz
+bin-sha: 664e164b54454e1e3af0afb1d603e85b81492f637904f43648e9553866a63064

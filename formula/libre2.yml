@@ -1,0 +1,5 @@
+summary: Alternative to backtracking PCRE-style regular expression engines
+webpage: https://github.com/google/re2
+version: 2025.11.05
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libre2-2025.11.05-android-36-arm64-v8a.release.tar.xz
+bin-sha: 9092c8416fe636dfce93c8ab472f05caa8b2722e0376919f2a6cd47e23f001a0

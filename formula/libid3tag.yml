@@ -1,0 +1,5 @@
+summary: ID3 tag manipulation library
+webpage: https://codeberg.org/tenacityteam/libid3tag
+version: 0.16.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libid3tag-0.16.4-android-36-arm64-v8a.release.tar.xz
+bin-sha: 547d6a64932cc20afc40e1b7cc14b4f00d0ec1118ed2d3d32724b971a5285d23

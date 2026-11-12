@@ -1,0 +1,5 @@
+summary: A collection of portable C++ source libraries
+webpage: https://www.boost.org
+version: nodocs
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/boost-nodocs-android-36-arm64-v8a.release.tar.xz
+bin-sha: 37e5c9682fe93201fa173da9f472a60c572a799d97849dbf6305ad63fde64fb3
