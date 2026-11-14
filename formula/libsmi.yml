@@ -1,5 +1,5 @@
 summary: A library to Access SMI MIB Information
 webpage: https://www.ibr.cs.tu-bs.de/projects/libsmi
 version: 0.5.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libsmi-0.5.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: c6f7b4f77f3e513a29d2e8a8273987d7f19eed42dbcd7e696d4b9a296834b068
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libsmi-0.5.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: f6b24bcda592a3a9cc61fb87d0edd3a822bd870b67219a846a85ea67bb53c48d

@@ -1,5 +1,5 @@
 summary: Text interface for Git repositories
 webpage: https://jonas.github.io/tig
 version: 2.6.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/tig-2.6.1-android-36-arm64-v8a.release.tar.xz
-bin-sha: ed8ffa283d223f7cbb31c75849c46e3ce85b55a4376cec4f666d2ad1cc42371d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/tig-2.6.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: a0899ae5ad71c427f89270c66a902c9e5bc58f2e23e6d197fa42fb84373f4927

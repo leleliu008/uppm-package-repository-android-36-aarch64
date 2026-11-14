@@ -1,5 +1,5 @@
 summary: A meta-build system for generating build files for ninja
 webpage: https://gn.googlesource.com/gn
 version: 2345
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/gn-2345-android-36-arm64-v8a.release.tar.xz
-bin-sha: 957c70211f06f160b6ef3cbeaa0d3f137918eda94d6006ece522db32d76ef48d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/gn-2345-android-36-arm64-v8a.release.tar.xz
+bin-sha: 90162c3122e808e3ddf0bf0f5d69af5bcd5ebd52253b6c981df390b110f1da11

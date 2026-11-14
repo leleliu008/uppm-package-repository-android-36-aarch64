@@ -1,5 +1,5 @@
 summary: Key directory that maps social media identities to encryption keys
 webpage: https://keybase.io
 version: 6.6.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/keybase-6.6.3-android-36-arm64-v8a.release.tar.xz
-bin-sha: 0a6b13167d6185e599229588de219130e3ffda3882b789f5e114082a97d5c87f
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/keybase-6.6.3-android-36-arm64-v8a.release.tar.xz
+bin-sha: 7d8db32a5e933d7ef998f91208a6fa6f71929f5aaba351aeb61ea0e038bd2b8a

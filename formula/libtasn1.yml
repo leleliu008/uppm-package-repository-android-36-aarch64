@@ -1,5 +1,5 @@
 summary: ASN.1 structure parser library
 webpage: https://www.gnu.org/software/libtasn1
 version: 4.21.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libtasn1-4.21.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 1b81937ddb30ba507c7b14c9cec304123234bc798fa6cc073dc022c89a44a1c9
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libtasn1-4.21.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 86997160d0e32acd7dcc831de11a260752ea77256898da218cd0c152d3a682f1

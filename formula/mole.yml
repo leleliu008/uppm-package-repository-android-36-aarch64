@@ -1,0 +1,5 @@
+summary: A command-line tool to do a deep clean and optimize your macOS
+webpage: https://github.com/tw93/Mole
+version: V1.71.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/mole-V1.71.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: ef2e4b571f82c83b1160146284b6ab8c0d24d78404b9842bbb044c980636a270

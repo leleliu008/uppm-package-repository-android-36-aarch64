@@ -1,5 +1,5 @@
 summary: A free and easy-to-use client-side URL transfer library
 webpage: https://curl.se/
 version: 8.23.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libcurl-8.23.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: a50354781e945e5741e9a2d6462cfe42029067ae980f724ae1cf3d5d6a656091
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libcurl-8.23.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: cd0dcf7c3e09b88786f258af1819a88b58b6d16d2319b743555c5d4c4e0f3f20

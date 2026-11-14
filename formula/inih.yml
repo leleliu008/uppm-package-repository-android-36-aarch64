@@ -1,5 +1,5 @@
 summary: A simple .ini file parser in C
 webpage: https://github.com/benhoyt/inih
 version: r63
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/inih-r63-android-36-arm64-v8a.release.tar.xz
-bin-sha: bfa54dd06e8df52125716179c851dab86932e07a32f374757dce4140e02199ab
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/inih-r63-android-36-arm64-v8a.release.tar.xz
+bin-sha: e20b419458b76451fc65253fdea1e3c0581d86ef27db32371d566eaf7939b046

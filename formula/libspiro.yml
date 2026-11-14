@@ -1,5 +1,5 @@
 summary: Library to simplify the drawing of curves
 webpage: https://github.com/fontforge/libspiro
 version: 20240903
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libspiro-20240903-android-36-arm64-v8a.release.tar.xz
-bin-sha: a668c6a1f11080fc16e7cd986952c0c7444dbb9ffdc1634a79b3173523ffb1ac
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libspiro-20240903-android-36-arm64-v8a.release.tar.xz
+bin-sha: 344fb2817ef40d93ad2792513d7971bf3a3411b9c8537410a1055b0f0f9e8dfc

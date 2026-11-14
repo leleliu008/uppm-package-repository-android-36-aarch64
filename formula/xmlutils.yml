@@ -1,5 +1,5 @@
 summary: A collections of command-line utilities provided by libxml2
 webpage: https://gitlab.gnome.org/GNOME/libxml2
 version: 2.15.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/xmlutils-2.15.4-android-36-arm64-v8a.release.tar.xz
-bin-sha: c2f5f76abf7df8ebaebd0e9c574bb95ef277600dc28fc5816ee5d5f35e1b2272
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/xmlutils-2.15.4-android-36-arm64-v8a.release.tar.xz
+bin-sha: ac4388fbdc9d65ae671f8d008169128c6717a2170105cb9b54b9d603f725afda

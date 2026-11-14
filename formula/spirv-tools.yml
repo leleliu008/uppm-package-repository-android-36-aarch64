@@ -1,0 +1,5 @@
+summary: API and commands for processing SPIR-V modules
+webpage: https://github.com/KhronosGroup/SPIRV-Tools
+version: 1.4.363.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/spirv-tools-1.4.363.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: a6f41998f076c236bb22cc3f71a3738781e176da51ed8d5cf78c65e8124c9554

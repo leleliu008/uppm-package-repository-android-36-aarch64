@@ -1,5 +1,5 @@
 summary: A command-line tool for generating documentation from annotated programming language source files
 webpage: https://www.doxygen.nl/
 version: 1.18.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/doxygen-1.18.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 3ddbae20221f8c36a1739b1206aa8daaab3ef7357ba91334c6a75fbfd19caf10
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/doxygen-1.18.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 34e1e458a2549eea693b1306272be032ab244097313178b39231c0e61956bb90

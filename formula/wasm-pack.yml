@@ -1,0 +1,5 @@
+summary: Your favorite rust -> wasm workflow tool
+webpage: https://rustwasm.github.io/wasm-pack/
+version: 0.15.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/wasm-pack-0.15.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: c202d87fac2c4495947c47928906ea0b551468a8d7027623bfa089d3e510093a

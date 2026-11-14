@@ -1,5 +1,5 @@
 summary: An open-source audio processing library
 webpage: https://www.surina.net/soundtouch/
 version: 2.4.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libsoundtouch-2.4.1-android-36-arm64-v8a.release.tar.xz
-bin-sha: b5bf5e535322cba4a93daceda8712b439b36245b12cbdba3a475f7153f736c85
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libsoundtouch-2.4.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: 9a1c2ccce60e108143a3fe01d070bc6fe4a40e29a721ff8ea54964fdec7b08c2

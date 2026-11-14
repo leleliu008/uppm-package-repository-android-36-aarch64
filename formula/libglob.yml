@@ -1,5 +1,5 @@
 summary: glob(3) implementation
 webpage: https://pubs.opengroup.org/onlinepubs/9699919799/functions/glob.html
-version: 2026.11.12
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libglob-2026.11.12-android-36-arm64-v8a.release.tar.xz
-bin-sha: fb482c658bc24e5d8c9565693ec72488bcb4a9ca280c720f7e9790299d656abb
+version: 2026.11.13
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libglob-2026.11.13-android-36-arm64-v8a.release.tar.xz
+bin-sha: 981e9b0342b4c2c7404a45ccb4b9fb5998a23662160740b8e39c3e1cf79399cf

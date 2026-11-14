@@ -1,5 +1,5 @@
 summary: C library for parsing and manipulating device tree data structures
 webpage: https://mirrors.edge.kernel.org/
 version: 1.8.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libfdt-1.8.1-android-36-arm64-v8a.release.tar.xz
-bin-sha: 9303b1b4458c5a06356bd38438711773c0e944ec0b18390ea4414c64bee93571
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libfdt-1.8.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: 24cbafd85fa8bc381764e3e2729ff4a2a3d146d77f5bd0e51f9b3070e8d21f06

@@ -1,5 +1,5 @@
 summary: A glib-like multi-platform c library
 webpage: https://tboox.org/
 version: 1.8.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libtbox-1.8.2-android-36-arm64-v8a.release.tar.xz
-bin-sha: 4ddd5655d2ca9979757ccc5165629ff6af343ba3c76f844fc841c0941329c2ca
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libtbox-1.8.2-android-36-arm64-v8a.release.tar.xz
+bin-sha: 3110e5f7e73580028453c7ffd7f97ee6cc9bf0bfd1d1bb02c6bac5319ef12e27

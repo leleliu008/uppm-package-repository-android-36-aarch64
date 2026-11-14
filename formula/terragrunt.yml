@@ -1,0 +1,5 @@
+summary: Thin wrapper for Terraform e.g. for locking state
+webpage: https://terragrunt.gruntwork.io/
+version: 1.2.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/terragrunt-1.2.2-android-36-arm64-v8a.release.tar.xz
+bin-sha: 63c6cd8e07bf0b130f2f357ac092b009316523c7116e96720995727e2c3f0cca

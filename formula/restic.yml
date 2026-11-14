@@ -1,5 +1,5 @@
 summary: A fast, efficient and secure backup program
 webpage: https://restic.github.io/
 version: 0.19.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/restic-0.19.1-android-36-arm64-v8a.release.tar.xz
-bin-sha: 244d44f4f5a5b912e61317fb90ea5b0cbbc8e8cada587a90f734d116e295207d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/restic-0.19.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: 478ed619b4e900cd6b8f0ca6263afa7489c1c9cb444166ae3c94988f6cf5a0ff

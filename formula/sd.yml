@@ -1,5 +1,5 @@
 summary: Intuitive find & replace CLI
 webpage: https://github.com/chmln/sd
 version: 1.1.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/sd-1.1.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: bb7f808e017fba597f201eaf62d16a6fe05a3fb363f7f0597df3e5ec90be88dd
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/sd-1.1.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: b4f49077abf265651d5114630267e4bf2a543b5690069f1e5aac2a61362db5af

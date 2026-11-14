@@ -1,5 +1,5 @@
 summary: Open Source H.264 Codec
 webpage: https://github.com/cisco/openh264
 version: 2.7.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libopenh264-2.7.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 89dd4a9e81515c351fa7e2b0362fdd21799683194a278db155da911949c427e0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libopenh264-2.7.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 4981aac7af5cad2d01c310121ea06fa240cec8143326d13ae40f0a34d2e5bc0c

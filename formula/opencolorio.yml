@@ -1,5 +1,5 @@
 summary: Color management solution geared towards motion picture production
 webpage: https://opencolorio.org/
 version: 2.6.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/opencolorio-2.6.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 7a28ae9ab594f81ec3f30b4bd6a8e731ccd3970c520d7f4fedfb33205b502a35
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/opencolorio-2.6.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: cd1d2f4fef7b3c68f9fc41429a6c7def6148c9fe52cee4c0f42a9b0cd8bfa996

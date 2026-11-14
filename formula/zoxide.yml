@@ -1,5 +1,5 @@
 summary: A shell extension to navigate your filesystem faster
 webpage: https://github.com/ajeetdsouza/zoxide
 version: 0.10.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/zoxide-0.10.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 92750a97d9c2cdfff14ae96f758502c1bb85e086cc968245287d30eb7de14f93
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.2/zoxide-0.10.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 5460b1551829bdeb52e011322d6bc8a484fbbafc1d61bb9bcdf8a658aa4ec126

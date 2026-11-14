@@ -1,5 +1,5 @@
 summary: Light HTTP/1.1 server library
 webpage: https://www.gnu.org/software/libmicrohttpd
 version: 1.0.10
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libmicrohttpd-1.0.10-android-36-arm64-v8a.release.tar.xz
-bin-sha: 40d661a404d81f00068536ac3532f42620d20cb295690d1fbfee8da2658e4d6b
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libmicrohttpd-1.0.10-android-36-arm64-v8a.release.tar.xz
+bin-sha: 8a5872a7c2c2e4c51b3ce6f49e9df9042b36100e8168bcfc2dcbe52957d46276

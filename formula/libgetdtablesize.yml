@@ -1,5 +1,5 @@
 summary: get descriptor table size
 webpage: https://man7.org/linux/man-pages/man3/getdtablesize.3.html
 version: 1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libgetdtablesize-1-android-36-arm64-v8a.release.tar.xz
-bin-sha: 59cb408efbc822eee3294dbbde796338270f45ed3f8f3d57974341f076d3624d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libgetdtablesize-1-android-36-arm64-v8a.release.tar.xz
+bin-sha: 571c59e981736344426af1256c92fc5a4e411a1248b9a891f5b97965b3a1850e

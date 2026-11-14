@@ -1,5 +1,5 @@
 summary: JBIG2 decoder and library (for monochrome documents)
 webpage: https://jbig2dec.com/
 version: 0.20
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libjbig2dec-0.20-android-36-arm64-v8a.release.tar.xz
-bin-sha: d869aedcee6851562359a17db831bf9109b3ba98c0bc50deb188a85d1ceae392
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libjbig2dec-0.20-android-36-arm64-v8a.release.tar.xz
+bin-sha: 1e7295fbb53e674b06c5984d6fed3c669acbdda6a9d95a9a0935752721b4a860

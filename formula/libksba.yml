@@ -1,5 +1,5 @@
 summary: X.509 and CMS library
 webpage: https://www.gnupg.org/related_software/libksba
 version: 1.8.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libksba-1.8.1-android-36-arm64-v8a.release.tar.xz
-bin-sha: 93c042e7cbb32627c3c994dcf51c38752ad1677bb7339eebfa55277259b41736
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libksba-1.8.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: 9f5f269e0bef13948f07fbcfba373093a05d766a6a3194467c1c24eb93aca077

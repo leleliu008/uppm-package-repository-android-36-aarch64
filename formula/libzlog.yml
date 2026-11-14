@@ -1,5 +1,5 @@
 summary: A reliable, high-performance, thread-safe, flexible, clear-model logging library written in pure C
 webpage: https://github.com/HardySimpson/zlog
 version: 1.2.20
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libzlog-1.2.20-android-36-arm64-v8a.release.tar.xz
-bin-sha: c9f9db764ca0cc81f73190e6f1cb59ff513a1bc6db6fdf37202e24a9a118a471
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libzlog-1.2.20-android-36-arm64-v8a.release.tar.xz
+bin-sha: cbf989704ca6309f123a7fc235375db2167ff75ab8d5c0e9851756a80db6bf51

@@ -1,5 +1,5 @@
 summary: A command-line DNS client for humans
 webpage: https://doggo.mrkaran.dev/
 version: 1.4.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/doggo-1.4.2-android-36-arm64-v8a.release.tar.xz
-bin-sha: c1d92ecee6bb6403218940c0ce4d4889343dca38ccb6a9b583ebe0d8e1ea5258
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/doggo-1.4.2-android-36-arm64-v8a.release.tar.xz
+bin-sha: 22d33b650dbafe854437b6aff27d9a9494105da5b3351f0d0060bcbd10913dc3

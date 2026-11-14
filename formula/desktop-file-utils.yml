@@ -1,5 +1,5 @@
 summary: A few command-line utilities for working with desktop entries
 webpage: https://wiki.freedesktop.org/www/Software/desktop-file-utils/
 version: 0.29
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/desktop-file-utils-0.29-android-36-arm64-v8a.release.tar.xz
-bin-sha: ae4d49bb02eb6b97c24678398d0479b87b7a423d20668f129bf15c19923a65a2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/desktop-file-utils-0.29-android-36-arm64-v8a.release.tar.xz
+bin-sha: 2d5a3ff839a0c7d838f1ad39ac61dc4c7c523b22dc06f7f90b78f5a7bf186cdf

@@ -1,0 +1,5 @@
+summary: Cargo plugin to generate list of all licenses for a crate
+webpage: https://github.com/EmbarkStudios/cargo-about
+version: 0.9.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/cargo-about-0.9.3-android-36-arm64-v8a.release.tar.xz
+bin-sha: e38f218d6825f815c204bc0f7b0f9d1ff7ece5b3c28e73401640fea6ca36f5d3

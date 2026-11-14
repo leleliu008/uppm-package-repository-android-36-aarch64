@@ -1,5 +1,5 @@
 summary: Clone of cat(1) with syntax highlighting and Git integration
 webpage: https://github.com/sharkdp/bat
 version: 0.26.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/bat-0.26.1-android-36-arm64-v8a.release.tar.xz
-bin-sha: 778bc8c8f2eda612b7e290aae53f591ab8742ac5e0df018418799fd2ff39b32d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/bat-0.26.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: 761be65d1cf2d77a97ab97a8db0b278fc8a582f1d347ea7d27c822bf7eefd7ba

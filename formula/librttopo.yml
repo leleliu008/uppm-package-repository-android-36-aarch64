@@ -1,5 +1,5 @@
 summary: RT Topology Library
 webpage: https://deb.debian.org/
 version: 1.1.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/librttopo-1.1.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 64b3d915b45f5412025934a5bc6ca2107a851b689fe2219bbce55a706b9b8db1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/librttopo-1.1.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: fde12c771dd676471dd5681fbaa1d95d8705e4ef810cbcdb818dcaa71f2955c6

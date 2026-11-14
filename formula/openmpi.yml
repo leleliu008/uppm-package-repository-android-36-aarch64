@@ -1,5 +1,5 @@
 summary: High performance message passing library
 webpage: https://www.open-mpi.org
 version: 4.1.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/openmpi-4.1.6-android-36-arm64-v8a.release.tar.xz
-bin-sha: 5f751a2a432cb190fa23414dcd8974e3049bc4673e8204a463f98875debb7b0b
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/openmpi-4.1.6-android-36-arm64-v8a.release.tar.xz
+bin-sha: e2eed2b7cb33a8e53b3f8efaaf63035f9cc3dd8cc8a6ffe2a1918049bf62a92f

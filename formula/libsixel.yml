@@ -1,0 +1,5 @@
+summary: A SIXEL encoder/decoder
+webpage: https://github.com/libsixel/libsixel
+version: 1.10.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libsixel-1.10.5-android-36-arm64-v8a.release.tar.xz
+bin-sha: 266c6f5e49db4cca5c62907aa1b474302ed2548f43b721e8b88ebe2b89444fbd

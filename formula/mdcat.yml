@@ -1,0 +1,5 @@
+summary: Show markdown documents on text terminals
+webpage: https://github.com/BIRSAx2/mdcat
+version: 2.20.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/mdcat-2.20.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: bf02ee24beef19d2383a0679761312161eaa735e95d5b62ca6a1429f744ef385

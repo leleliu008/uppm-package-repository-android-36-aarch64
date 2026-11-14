@@ -1,5 +1,5 @@
 summary: A high-performance, high-quality MPEG-4 video library
 webpage: https://www.xvid.com
 version: 1.3.7
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libxvid-1.3.7-android-36-arm64-v8a.release.tar.xz
-bin-sha: dd0faa1160518beed80a6c08649600be5eb07240ac97cc11b03e982a96cda522
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libxvid-1.3.7-android-36-arm64-v8a.release.tar.xz
+bin-sha: 82990eb30a9d8b9611292dfe061e570d2f618435add40d10a814bbdc31b0dd94

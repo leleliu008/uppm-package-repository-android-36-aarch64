@@ -1,5 +1,5 @@
 summary: OpenGL and OpenGL ES reference compiler for shading languages
 webpage: https://www.khronos.org/opengles/sdk/tools/Reference-Compiler/
 version: 16.6.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/glslang-16.6.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 01a1e8b7146a6558445b38cd8aad7d4b213098383db702753ad1f1585a93c192
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/glslang-16.6.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 69f321985afe544b0c9d8783be359b7f1d78f49b4a79f11d19f8f66e0e57be1b

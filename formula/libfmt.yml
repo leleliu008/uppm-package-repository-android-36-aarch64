@@ -1,5 +1,5 @@
 summary: An open-source C/C++ library for formatting that provides a fast and safe alternative to C stdio and C++ iostreams
 webpage: https://fmt.dev
 version: 12.2.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libfmt-12.2.1-android-36-arm64-v8a.release.tar.xz
-bin-sha: 4f68bbc9924d71058cda53a303736c21d2ae49e081dcf61bb805a5363dad487f
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libfmt-12.2.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: bd1241e04c24541ae20251b82b1c0bdc49a9cec3f3e13bb965ffa2de7fdd918e

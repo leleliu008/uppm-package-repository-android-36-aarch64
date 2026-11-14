@@ -1,5 +1,5 @@
 summary: Geometry Engine
 webpage: https://trac.osgeo.org/geos
 version: 3.15.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libgeos-3.15.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 5aaf13190105b936165229d56b837e508163982ded24d1c6539a0aa0272a5689
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libgeos-3.15.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 330c6104217417d5475188faf3ca88bf0069756ab4930e7a668b33a39f2cebce

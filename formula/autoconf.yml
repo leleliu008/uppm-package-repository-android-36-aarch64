@@ -1,0 +1,5 @@
+summary: Automatic configure script builder
+webpage: https://www.gnu.org/software/autoconf
+version: 2.73
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/autoconf-2.73-android-aarch64.release.tar.xz
+bin-sha: 7d939416356aa53533389a39caf8e2aae1b360f60ae7f5b513ebc22a45c415f4

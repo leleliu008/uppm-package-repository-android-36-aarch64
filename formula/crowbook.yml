@@ -1,5 +1,5 @@
 summary: A command-line tool to convert books written in Markdown to HTML, LaTeX/PDF and EPUB
 webpage: https://github.com/crowdagger/crowbook
 version: 0.17.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/crowbook-0.17.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 6ef401c0c0f7fff7aebd119531545f8e89c1eaad0113b68f22d26e43d889f562
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/crowbook-0.17.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 515138feb27586979447d9f56a75544d19cba59e049b0dc98dc9803716e5a124

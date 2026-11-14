@@ -1,5 +1,5 @@
 summary: get NIS domain name
 webpage: https://man7.org/linux/man-pages/man2/getdomainname.2.html
 version: 1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libgetdomainname-1-android-36-arm64-v8a.release.tar.xz
-bin-sha: 87a8602a9ead1964923ee929a934b07bb7dbcb63bd1360993f346ad7e4203f46
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libgetdomainname-1-android-36-arm64-v8a.release.tar.xz
+bin-sha: 83179b700c6340adb0f90b76ab73ec93c087eeee3733d37d2ca2543b5eaac7da

@@ -1,5 +1,5 @@
 summary: crypt(3) implementation
 webpage: http://michael.dipperstein.com/crypt
 version: 1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libcrypt-1-android-36-arm64-v8a.release.tar.xz
-bin-sha: 6c38688b898e2b8010cdc35dcaab59f57fd43eda2765af4741bcb5a4f134621b
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libcrypt-1-android-36-arm64-v8a.release.tar.xz
+bin-sha: 768f34b2028435dbac01ee74e9068a37a0724d70cb319986bf94dc6ef3388dd7

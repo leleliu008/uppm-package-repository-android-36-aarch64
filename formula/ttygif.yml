@@ -1,5 +1,5 @@
 summary: A command-line tool to convert a ttyrec file into gif files
 webpage: https://github.com/icholy/ttygif
 version: 1.6.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/ttygif-1.6.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 8dedb704a143d236bf58a96b8641d5e7164b9d03fe919163a007932541d2a337
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/ttygif-1.6.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: c1136c61e02dc70fbf0b83ab9e5306da495211d6bd435eb2d914732befe01708

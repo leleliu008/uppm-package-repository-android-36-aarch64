@@ -1,0 +1,5 @@
+summary: A command-line tool to perform various operations on string
+webpage: https://github.com/abhimanyu003/sttr
+version: 0.2.30
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/sttr-0.2.30-android-36-arm64-v8a.release.tar.xz
+bin-sha: 7f18ad207149a909fae828d1bd12a74c49985dafa61e0ae43b51bf01be05b4c1

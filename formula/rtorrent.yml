@@ -1,5 +1,5 @@
 summary: Ncurses BitTorrent client based on libtorrent-rakshasa
 webpage: https://github.com/rakshasa/rtorrent
-version: 0.16.27
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/rtorrent-0.16.27-android-36-arm64-v8a.release.tar.xz
-bin-sha: ab86813655335a3a391b61e157ec8c8c04e0df61e1b810e805251873319e68bf
+version: 0.16.28
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/rtorrent-0.16.28-android-36-arm64-v8a.release.tar.xz
+bin-sha: eec96f007c7f70bbaccf6dbbc3377a0d4c4dc9d102c3aa261f2e1316a8bddb95

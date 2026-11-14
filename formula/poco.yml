@@ -1,5 +1,5 @@
 summary: C++ class libraries for building network and internet-based applications
 webpage: https://pocoproject.org/
 version: all
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/poco-all-android-36-arm64-v8a.release.tar.xz
-bin-sha: 721173bd9b86177d7adcde2a2dda98c48e277860ec59b0549f18bff436cdf85f
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/poco-all-android-36-arm64-v8a.release.tar.xz
+bin-sha: 1b953bb7392403d3dbe496cfb21330edbd483519d33882c7c002cfc77019601d

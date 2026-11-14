@@ -1,0 +1,5 @@
+summary: A multi-language version manager, a unified toolchain
+webpage: https://moonrepo.dev/proto
+version: 0.63.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/proto-cli-0.63.2-android-36-arm64-v8a.release.tar.xz
+bin-sha: 0fe01f8374afcc391a0e40bcd526120f522e7e58891fd65ad34f1d56e597b523

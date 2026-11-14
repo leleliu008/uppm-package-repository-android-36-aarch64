@@ -1,0 +1,5 @@
+summary: An independent package manager for compiled binaries
+webpage: https://github.com/marwanhawari/stew
+version: 0.6.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/stew-0.6.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: eb00299dd15b0b4a77fe3ab91f0b81b21ca7c355c7ae8f09b255c179a326518d

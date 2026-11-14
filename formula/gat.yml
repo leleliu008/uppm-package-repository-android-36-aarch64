@@ -1,5 +1,5 @@
 summary: Cat alternative written in Go
 webpage: https://github.com/koki-develop/gat
 version: 0.31.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/gat-0.31.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 6f4d1aea4f73da544002a42f442947b5c9dc8b86872275fd61ab2532e5af89f1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/gat-0.31.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 6b14331c3e2cfc48ecd43a69c0063c9316f6fe100524fac4926d01b94aa98b14

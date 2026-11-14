@@ -1,5 +1,5 @@
 summary: App development framework of Golang
 webpage: https://goframe.org
 version: 2.10.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/gf-2.10.4-android-36-arm64-v8a.release.tar.xz
-bin-sha: 98b19f08495e00878cd688a6d9c9b42073a659bc8a850b5572f198de1dba1457
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/gf-2.10.4-android-36-arm64-v8a.release.tar.xz
+bin-sha: b3580995a554693508dc73c6925a059d5ad23bcf31d652c09c5b8b3c3e75db4e

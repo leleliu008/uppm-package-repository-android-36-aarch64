@@ -1,5 +1,5 @@
 summary: Fast and multi-purpose HTTP toolkit
 webpage: https://github.com/projectdiscovery/httpx
 version: 1.12.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/httpx-1.12.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 2e5031fde3b823d650a7bc29407a12f0539486808811866ee33ebaa9f6159363
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/httpx-1.12.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 9fa0b501b53a8c0a720982986e8dfea08f2d593baf34c85e1212ee179f1eb0c7

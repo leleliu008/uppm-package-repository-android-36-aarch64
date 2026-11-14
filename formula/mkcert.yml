@@ -1,0 +1,5 @@
+summary: Simple tool to make locally trusted development certificates
+webpage: https://github.com/FiloSottile/mkcert
+version: 1.4.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/mkcert-1.4.4-android-36-arm64-v8a.release.tar.xz
+bin-sha: aaf41c9dbce6abc996f7f72f87519b3af65731b2bf97781e2c7cee525a5f15ab

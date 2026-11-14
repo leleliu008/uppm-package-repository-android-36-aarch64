@@ -1,0 +1,5 @@
+summary: A super-fast Rust-based JavaScript/TypeScript compiler
+webpage: https://swc.rs
+version: 1.16.22
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/swc-1.16.22-android-36-arm64-v8a.release.tar.xz
+bin-sha: 1dfc5fe84b11673a5fa909b141b1120952b883c1b9187ce4b165ae77e3ca592e

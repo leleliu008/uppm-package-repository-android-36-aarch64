@@ -1,5 +1,5 @@
 summary: Multi-format archive and compression library
 webpage: https://www.libarchive.org/
 version: 3.8.11
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libarchive-3.8.11-android-36-arm64-v8a.release.tar.xz
-bin-sha: 74d840c98f3a7661812d98e46bc705f538acef982c7533f9c84408b01755d8fd
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libarchive-3.8.11-android-36-arm64-v8a.release.tar.xz
+bin-sha: 24634d2cac717674d5a72c086f26c8150a576ab986d5e495e26bef8d4643046b

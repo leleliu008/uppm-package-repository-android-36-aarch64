@@ -1,5 +1,5 @@
 summary: Protocol Buffers(data interchange format) compiler and library developed by Google
 webpage: https://github.com/protocolbuffers/protobuf
 version: 36.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/protobuf-36.2-android-36-arm64-v8a.release.tar.xz
-bin-sha: 389094808ccfe52cdaa94d487d72fe20a74c42e3def92bef1dbf5119b6ead935
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/protobuf-36.2-android-36-arm64-v8a.release.tar.xz
+bin-sha: b8f9d6e9bde34003eadd7ea3bf3a628cc1827cc6d338e89ab23dc9c5ba5dd8bf

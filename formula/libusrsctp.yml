@@ -1,5 +1,5 @@
 summary: Portable SCTP userland stack
 webpage: https://github.com/sctplab/usrsctp
 version: 0.9.5.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libusrsctp-0.9.5.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 0ce977d5e4de8ad2a156e758726f57e548ca71409a42d25ad996614954544feb
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libusrsctp-0.9.5.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: c03d1981ebf1a05df9cfd28a76bf7c35d9a7116a5db39d7c3e3d9786360a90b3

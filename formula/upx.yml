@@ -1,0 +1,5 @@
+summary: A free, secure, portable, extendable, high-performance executable packer for several executable formats
+webpage: https://upx.github.io/
+version: 5.3.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/upx-5.3.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: aa032d30174b9f6d2d78b965d32f3282567cd92112647d15e3c64376f9b8b520

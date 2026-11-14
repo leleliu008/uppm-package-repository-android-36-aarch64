@@ -1,5 +1,5 @@
 summary: A command-line tool to generate compilation database for clang tooling
 webpage: https://github.com/rizsotto/Bear
 version: 3.1.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/bear-3.1.6-android-36-arm64-v8a.release.tar.xz
-bin-sha: 4edff1e3943a9bc644a8f888147252ab61ae2a711f43d2863c27cc8ddeaaeb8b
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/bear-3.1.6-android-36-arm64-v8a.release.tar.xz
+bin-sha: 2d5adfcdb509b5be4531cea9ea7fbf0c9f975098d0f7dfe868689f8ad0304c38

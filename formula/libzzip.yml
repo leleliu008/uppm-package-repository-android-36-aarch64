@@ -1,0 +1,5 @@
+summary: Library providing read access on ZIP-archives
+webpage: https://github.com/gdraheim/zziplib
+version: 0.13.80
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libzzip-0.13.80-android-36-arm64-v8a.release.tar.xz
+bin-sha: 78f738cdad388ae13583d89f02fe17b71562cf7037d647e12cbc31e21fb8cdc9

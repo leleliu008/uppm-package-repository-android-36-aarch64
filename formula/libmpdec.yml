@@ -1,0 +1,5 @@
+summary: Library for decimal floating point arithmetic
+webpage: https://www.bytereef.org/mpdecimal/
+version: 4.0.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libmpdec-4.0.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: 027ef025f675efb6a3cb18b0d9767b5ffcdece84fe71106df9af0a426dba9fc8

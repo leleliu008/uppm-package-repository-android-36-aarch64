@@ -1,5 +1,5 @@
 summary: Library for encoding and decoding .avif files
 webpage: https://github.com/AOMediaCodec/libavif
 version: 1.4.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libavif-1.4.2-android-36-arm64-v8a.release.tar.xz
-bin-sha: a3a3432a86e3b69a1b75264773a2ecd92f0723257e2ce7e6ba37abac4faef65e
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libavif-1.4.2-android-36-arm64-v8a.release.tar.xz
+bin-sha: c6dd1157dec26292c01444d76a068cba565e7549ab3af829d86aadb266af17bc

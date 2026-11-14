@@ -1,5 +1,5 @@
 summary: Tools and libraries to manipulate images in many formats
 webpage: https://imagemagick.org/
 version: 7.1.2.35
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/imagemagick-7.1.2.35-android-36-arm64-v8a.release.tar.xz
-bin-sha: e54f4000ba4dc0d943c36aa070250cd080de89fe6690380956b4273402a8fba0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/imagemagick-7.1.2.35-android-36-arm64-v8a.release.tar.xz
+bin-sha: 293c0393584f5cfdb059784d24aec910a34e8cd85847bc2d337935b05bab8930

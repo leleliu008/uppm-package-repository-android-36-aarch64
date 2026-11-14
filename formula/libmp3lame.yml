@@ -1,5 +1,5 @@
 summary: A high quality MPEG Audio Layer III (MP3) encoder
 webpage: https://lame.sourceforge.io
 version: 4.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/libmp3lame-4.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: e379a56811af9da6e9904027100850794494e67e5429dec702ef994d8b3d33fb
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libmp3lame-4.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 695adfb70e316addee1ae6b7f8257f2aee1c54b8bb857c4e4c4abccc8346e681

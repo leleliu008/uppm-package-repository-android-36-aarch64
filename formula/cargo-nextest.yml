@@ -1,0 +1,5 @@
+summary: Next-generation test runner for Rust
+webpage: https://nexte.st
+version: 0.9.151
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/cargo-nextest-0.9.151-android-36-arm64-v8a.release.tar.xz
+bin-sha: 6cbb495ab7957ab80be03d54ee477a3ef9e7d1c9cf8312883383c6eb6bcdef0d

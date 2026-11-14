@@ -1,5 +1,5 @@
 summary: Fast and accurate code counter with complexity and COCOMO estimates
 webpage: https://github.com/boyter/scc
 version: 4.1.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/scc-4.1.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 3379991ac8f8ad3022ca0a334ff9612cca588aef1ee2b4b5f17f4f07b66ff14e
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/scc-4.1.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 923d50bd449da150fba9127bb2a9be8792560ace38d6dd970de4a8f5f2e39de8

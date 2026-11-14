@@ -1,5 +1,5 @@
 summary: Static reflection for enums (to string, from string, iteration) for modern C++
 webpage: https://github.com/Neargye/magic_enum
 version: 0.9.8
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/magic_enum-0.9.8-android-aarch64.release.tar.xz
-bin-sha: 097345f4aa4f93fc4f8aaf41cf2e3a4fc43b5e8fdb769f42056719840963d282
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/magic_enum-0.9.8-android-aarch64.release.tar.xz
+bin-sha: 7adea6b59a02f0171bb94baf4efff9227e3004c7e8714bcd4de0ae834ae3f0de

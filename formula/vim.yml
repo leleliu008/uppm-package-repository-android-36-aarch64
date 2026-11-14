@@ -1,5 +1,5 @@
 summary: Vi IMproved - enhanced vi editor
 webpage: https://www.vim.org/
 version: 9.2.1332
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/vim-9.2.1332-android-36-arm64-v8a.release.tar.xz
-bin-sha: 00c9100bfe797b8dcc17e738b426f10f6b2b69b4c8d940aec2b5597831ca6408
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/vim-9.2.1332-android-36-arm64-v8a.release.tar.xz
+bin-sha: 54ac9ce93855995d02a82fa7c92e12eb009ad9aa0d93264c58ed5b3e5b308c04

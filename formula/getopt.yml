@@ -1,5 +1,5 @@
 summary: A command-line option parsing utility
 webpage: https://mirrors.edge.kernel.org/
 version: 2.42.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/getopt-2.42.4-android-36-arm64-v8a.release.tar.xz
-bin-sha: 5195f6c9092c943a9a4cf0599f290cd71a94e95b52616d9ad1c0eaf250dd6793
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/getopt-2.42.4-android-36-arm64-v8a.release.tar.xz
+bin-sha: c3215b2d5415d40af6963e43b67fcc4bcc6e8e84d1c08ec8db387e8f4714ccb8

@@ -1,0 +1,5 @@
+summary: Fast CSV toolkit written in Rust
+webpage: https://github.com/BurntSushi/xsv
+version: 0.13.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/xsv-0.13.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 97be0627dacc68e6e638886a2577e77249e9ee2c22c579a79fbad1c8a962e071

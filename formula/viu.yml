@@ -1,0 +1,5 @@
+summary: A simple terminal image viewer written in Rust
+webpage: https://github.com/atanunq/viu
+version: 1.6.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/viu-1.6.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: 9a4676ff590f51e852785c3a9b8b44fd3026b1175113ef35ed2164d4485d89d8

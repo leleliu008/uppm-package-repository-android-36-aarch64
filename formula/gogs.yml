@@ -1,5 +1,5 @@
 summary: Go git service
 webpage: https://gogs.io
 version: 0.14.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.12/gogs-0.14.4-android-36-arm64-v8a.release.tar.xz
-bin-sha: fc1a0a1b2615d361eefa2f07c818cbc616ca564f506ac341b76556958a7947f1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/gogs-0.14.4-android-36-arm64-v8a.release.tar.xz
+bin-sha: 4fe232aaebcf7a00bbf27aedb27251bc316669168945ed3d5b4f27f22dc099ec
