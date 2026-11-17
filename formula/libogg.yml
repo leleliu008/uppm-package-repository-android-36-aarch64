@@ -1,5 +1,5 @@
 summary: Ogg Bitstream Library
 webpage: https://www.xiph.org/ogg/
 version: 1.3.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libogg-1.3.6-android-36-arm64-v8a.release.tar.xz
-bin-sha: edaa9fc69a92bedfb6bee8f07a1ebe6a3a47ad3bf85db53ce2a868bbfa314042
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libogg-1.3.6-android-36-arm64-v8a.release.tar.xz
+bin-sha: cec1fd9b820ba6af4b19c415c74b242fc91b26bab925989fbebed4daf5ea7424

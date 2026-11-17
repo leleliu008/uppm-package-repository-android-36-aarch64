@@ -1,5 +1,5 @@
 summary: A portable C++ library for parallel programming developed by Intel
 webpage: https://github.com/uxlfoundation/oneTBB
 version: 2023.2.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libtbb-2023.2.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 10195bc32d7e155e07b0b35cb63fb2cd354113fa1bdaae2c07854fcabb5842ad
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libtbb-2023.2.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: c073f751a51601cb23fb99e569f4a8f99ea12e22efdc0e948d37e3922536bd24

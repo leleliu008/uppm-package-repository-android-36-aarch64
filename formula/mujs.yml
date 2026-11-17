@@ -1,5 +1,5 @@
 summary: An embeddable Javascript interpreter in C
 webpage: https://mujs.com/
 version: 1.3.11
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/mujs-1.3.11-android-36-arm64-v8a.release.tar.xz
-bin-sha: 90d17be3c3b94d078a3c3acb9b0d18130e34cf7e8237563a9aaa4fd449aaba65
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/mujs-1.3.11-android-36-arm64-v8a.release.tar.xz
+bin-sha: 8cc182f795913378b4b3c72c89966d4faea1023f35f3f6c3238075b8b189201c

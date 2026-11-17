@@ -1,5 +1,5 @@
 summary: (Arguably) the best yacc variant
 webpage: https://invisible-island.net/byacc/
 version: 20260126
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/byacc-20260126-android-36-arm64-v8a.release.tar.xz
-bin-sha: 7ef95b02f322d278406a575b992048a64c7ae4544430666fd75c86b5a79c55e3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/byacc-20260126-android-36-arm64-v8a.release.tar.xz
+bin-sha: 7f019ef2f9a70146823569cf6cb7108d8b9461c0839ed40c574bc715779d66ca

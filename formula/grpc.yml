@@ -1,5 +1,5 @@
 summary: A modern, open source, high-performance remote procedure call (RPC) framework
 webpage: https://grpc.io/
 version: 1.85.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/grpc-1.85.2-android-36-arm64-v8a.release.tar.xz
-bin-sha: 9d01ac061c264b9796a15c4818cf87a7bab133c260728376a3514cabd4f2af60
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/grpc-1.85.2-android-36-arm64-v8a.release.tar.xz
+bin-sha: 9114b35a15378b3b1e085cc2ea4f4bd3b9e5ee5c0b444c8c5f7522dcbbe95f58

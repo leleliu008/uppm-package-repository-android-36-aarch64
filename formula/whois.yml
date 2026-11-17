@@ -1,5 +1,5 @@
 summary: Lookup tool for domain names and other internet resources
 webpage: https://github.com/rfc1036/whois
 version: 5.6.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/whois-5.6.6-android-36-arm64-v8a.release.tar.xz
-bin-sha: f6a44364e1c30298571597e49c38af31d5388842c066b3f26f1d63afca2b9b8f
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/whois-5.6.6-android-36-arm64-v8a.release.tar.xz
+bin-sha: fd00b7e910b47693f20cf929146995def728e8154154b4c36a33b4201cd1923b

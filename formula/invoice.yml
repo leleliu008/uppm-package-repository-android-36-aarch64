@@ -1,5 +1,5 @@
 summary: A invoice generator
 webpage: https://github.com/maaslalani/invoice
 version: 0.1.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/invoice-0.1.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 3441c94c4393591ba39718eee757f5f5311f0d8ba76165f8bea73e9478074f19
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/invoice-0.1.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: b5d7db446c9ff7c31904dc9e9d3cee9ece5ba420d058547311b7fccd3d0d43a5

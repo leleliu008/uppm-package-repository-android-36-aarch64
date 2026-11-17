@@ -1,5 +1,5 @@
 summary: A source code spell checker
 webpage: https://github.com/crate-ci/typos
 version: 1.52.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/typos-1.52.2-android-36-arm64-v8a.release.tar.xz
-bin-sha: 0d9dd0161bd2025fdca18518bf4f54dc7369f084ace7118c864d1430cf9eb25b
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/typos-1.52.2-android-36-arm64-v8a.release.tar.xz
+bin-sha: df5ad83030501d56153c1a26228366e24f69cbcacd1e4451be66be00accaa093

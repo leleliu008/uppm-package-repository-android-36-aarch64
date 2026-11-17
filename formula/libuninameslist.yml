@@ -1,5 +1,5 @@
 summary: Library of Unicode names and annotation data
 webpage: https://github.com/fontforge/libuninameslist
 version: 20260918
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libuninameslist-20260918-android-36-arm64-v8a.release.tar.xz
-bin-sha: 8d059046560066f75975665914001822bef84218a4aca3fa17f3e637f147d6ad
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libuninameslist-20260918-android-36-arm64-v8a.release.tar.xz
+bin-sha: 4b72edf0af30142a39496dc983de7e24cc74244b4c7b3013700ff2517df8cf79

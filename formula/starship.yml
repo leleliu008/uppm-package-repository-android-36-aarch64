@@ -1,5 +1,5 @@
 summary: The minimal, blazing-fast, and infinitely customizable prompt for any shell
 webpage: https://starship.rs/
 version: 1.27.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/starship-1.27.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 3c358da986720ecad9b6b5b8099a48883f36524fdf30d2431b1cc0f1ffbd9382
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/starship-1.27.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 16b7f5de32b706c72839c070d7e3095f6dcbfb580f75872a119fbcabac0709c2

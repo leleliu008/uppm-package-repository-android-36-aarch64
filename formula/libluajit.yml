@@ -1,5 +1,5 @@
 summary: Just-In-Time Compiler (JIT) for the Lua programming language
 webpage: https://luajit.org/
 version: 2.1.1794386141
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libluajit-2.1.1794386141-android-36-arm64-v8a.release.tar.xz
-bin-sha: 859214b9076799593e0d9e5c0d199af8cdb6f66e48d8ce2211fb55e766f412c5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libluajit-2.1.1794386141-android-36-arm64-v8a.release.tar.xz
+bin-sha: c944c24a33578233f7286e1ffc1e5bc1231c86a16321a409b60983230ab4fd4d

@@ -1,5 +1,5 @@
 summary: AV1 encoder
 webpage: https://gitlab.com/AOMediaCodec/SVT-AV1
 version: 4.3.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libSvtAv1-4.3.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 9938ca09ddf6ebaa17fc7fe062c710d835d7905dac9d2c84d2761f19b1ec55da
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libSvtAv1-4.3.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 03820d28bdd5235ec176188faab2dcc82d3588bbb1733f2c6367c184e8741adf

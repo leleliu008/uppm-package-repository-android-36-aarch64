@@ -1,5 +1,5 @@
 summary: grpc plugins
 webpage: https://grpc.io/
 version: 1.85.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/grpc-plugins-1.85.2-android-36-arm64-v8a.release.tar.xz
-bin-sha: 1c01ac9210183b24a95e7efa7bdb01291e6921baf4d337ebdca0897783297cb0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/grpc-plugins-1.85.2-android-36-arm64-v8a.release.tar.xz
+bin-sha: fdb70b6fc5738185c048c126d8ebc903f26f15b63e11d546c9c35dacd8ae7073

@@ -1,5 +1,5 @@
 summary: C library that provides generic access to USB devices
 webpage: https://libusb.info
 version: 1.0.30
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libusb-1.0.30-android-36-arm64-v8a.release.tar.xz
-bin-sha: 5b66ff66742c1e7c47894dd9a341ddf2ceb0fc27ca6730ec1126474d54f7b7c5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libusb-1.0.30-android-36-arm64-v8a.release.tar.xz
+bin-sha: 365de2c90775d8caf135f5373845204c1c841354463ed66389e4e2513aa737d4

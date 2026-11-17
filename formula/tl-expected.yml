@@ -1,5 +1,5 @@
 summary: C++11/14/17 std::expected with functional-style extensions
 webpage: https://tl.tartanllama.xyz/en/latest/
 version: 1.3.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/tl-expected-1.3.1-android-aarch64.release.tar.xz
-bin-sha: fc82b36eac928a5f9fcf94867ef998ccf35f3bbc30afbf1440383acf41132f18
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/tl-expected-1.3.1-android-aarch64.release.tar.xz
+bin-sha: 965d2402eadf8ee4bf5ab37139280bb7c8fe295afd4e0b70125ea7b65eab48c5

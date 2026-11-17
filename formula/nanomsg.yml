@@ -1,5 +1,5 @@
 summary: Socket library in C
 webpage: https://nanomsg.org/
 version: 1.3.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/nanomsg-1.3.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 0cba9dc648fccac869225029fa3b5f5da87671dcbbb4867a63107390f4985770
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/nanomsg-1.3.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: cfe03dc79e312d99f5f9a9e0a6fe6ceb35cd0298ea6cb1b1fcff52865802eb14

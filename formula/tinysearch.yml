@@ -1,5 +1,5 @@
 summary: A lightweight, fast, full-text search engine for static websites built with Rust and Wasm
 webpage: https://github.com/tinysearch/tinysearch
 version: 0.11.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/tinysearch-0.11.1-android-36-arm64-v8a.release.tar.xz
-bin-sha: 1237a6b74b9fb77f2e41c7a249ab059cecac87a095a2af09cb058611537cc5a1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/tinysearch-0.11.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: 13ce58cb57a7bd33e3499f7ebf97457a9026cc074838de0e00ead5c2ae5e8226

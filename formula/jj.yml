@@ -1,5 +1,5 @@
 summary: A git-compatible distributed version control system
 webpage: https://github.com/jj-vcs/jj
 version: 0.47.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/jj-0.47.1-android-36-arm64-v8a.release.tar.xz
-bin-sha: 35fe23e463c8c0cf6137a71d194b011bfee74724a5d8af74bbfa6b034b31ff12
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/jj-0.47.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: 4a670f2a9423ca68df7ef4dd48ce20f8309a0aba7bb3d2b1420423b8185ed67f

@@ -1,5 +1,5 @@
 summary: Universal Prebuild Package Manager
 webpage: https://github.com/leleliu008/uppm
 version: 0.15.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/uppm-0.15.3-android-36-arm64-v8a.release.tar.xz
-bin-sha: 9aa4e976499ff10340d5e22e4b96a093fbe46c29173622a97f1da20f4af313d3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/uppm-0.15.3-android-36-arm64-v8a.release.tar.xz
+bin-sha: 32ca8803a55d45633562b7d51c5b24a4ddbf901625e2199c11a35267d9768485

@@ -1,5 +1,5 @@
 summary: C library for parsing and emitting YAML
 webpage: https://github.com/yaml/libyaml
 version: 0.2.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libyaml-0.2.5-android-36-arm64-v8a.release.tar.xz
-bin-sha: ebc00b5a4a46dd41400a77e6b96a4e22b94f265f80413f006dddf175457fbd19
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libyaml-0.2.5-android-36-arm64-v8a.release.tar.xz
+bin-sha: 74d1b4b2d1516e5b2d4719eba7a753d5a446b72ed1fb33203379d5c59505e6f1

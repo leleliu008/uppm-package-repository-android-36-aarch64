@@ -1,5 +1,5 @@
 summary: An extraordinarily fast, memory-efficient, memory-mapped, key-value database
 webpage: https://symas.com/lmdb
 version: 1.0.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/lmdb-1.0.3-android-36-arm64-v8a.release.tar.xz
-bin-sha: 21461bd01a123dcaeff70c46237866ed9da2a3c465b374acc904c200395ec42d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/lmdb-1.0.3-android-36-arm64-v8a.release.tar.xz
+bin-sha: 8f5a652de9f94b1a48ca619e6d2b1fbb94e7985e50895d9cc5bca2d341e00093

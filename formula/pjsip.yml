@@ -1,5 +1,5 @@
 summary: C library for multimedia protocols such as SIP, SDP, RTP and more
 webpage: https://www.pjsip.org/
 version: 2.17
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/pjsip-2.17-android-36-arm64-v8a.release.tar.xz
-bin-sha: e2481bfe32cba491f58eb68acece29ee3145d74c2d59a4de10529843d293b819
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/pjsip-2.17-android-36-arm64-v8a.release.tar.xz
+bin-sha: c9e18cd84336b40114e410a9552599056f527e7757062f5ba859c07145fc60b5

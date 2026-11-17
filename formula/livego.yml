@@ -1,5 +1,5 @@
 summary: live video streaming server in golang
 webpage: https://github.com/gwuhaolin/livego
 version: 0.0.20
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/livego-0.0.20-android-36-arm64-v8a.release.tar.xz
-bin-sha: 411c0a9f09f41a6bd58b4b237bf4035ef6e8b459b54a460cc65d6577c1c74db8
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/livego-0.0.20-android-36-arm64-v8a.release.tar.xz
+bin-sha: 792f9840750b20041b25629f18e2e3cdf2668ebb305978bcd3c18a4c230c9fa4

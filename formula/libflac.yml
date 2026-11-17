@@ -1,5 +1,5 @@
 summary: Free lossless audio codec
 webpage: https://xiph.org/flac/
 version: 1.5.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libflac-1.5.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 4a5b081f4170d4c838ae1721a3568448b731a0b877b25192c68bed8319f0eb6b
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libflac-1.5.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: e06874dddac39577893ce466b53780c1cf05d2d2dc2453b34ba4908b722d37c5

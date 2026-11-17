@@ -1,5 +1,5 @@
 summary: A packrat parser generator for C
 webpage: https://github.com/arithy/packcc
 version: 3.1.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/packcc-3.1.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: c510e858a26b71fcf08a94e1006be7a17b72119283901cff4f0bd3865513f6cb
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/packcc-3.1.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: f6e5c95ad2df77cd213f553db6dfb74a23d244409abd1c402b0c375056e35936

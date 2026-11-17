@@ -1,5 +1,5 @@
 summary: A command line tool to determine if an XML document is well-formed
 webpage: https://libexpat.github.io
 version: 2.10.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/xmlwf-2.10.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 58591f467ef475694958f1eaac6219a428ae7e9fc895d8928d31912cde5eafa1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/xmlwf-2.10.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 9386ffac3dc504d3dc890ac79bf48a3aa1f628f9626e3e807f9fa542984abdc6

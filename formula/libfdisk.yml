@@ -1,5 +1,5 @@
 summary: Library for manipulating disk partition tables
 webpage: https://mirrors.edge.kernel.org/
 version: 2.40.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libfdisk-2.40.2-android-36-arm64-v8a.release.tar.xz
-bin-sha: 165326248d1cda8275f059449ca553eded8349a61dbfdd2504e2c931ae0168b2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libfdisk-2.40.2-android-36-arm64-v8a.release.tar.xz
+bin-sha: 0b1241894f12f7ebffb80d78fe70764ff1ed693de343b9d0389ae7f7a27993ab

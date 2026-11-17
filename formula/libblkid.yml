@@ -1,5 +1,5 @@
 summary: DCE compatible Universally Unique Identifier library
 webpage: https://mirrors.edge.kernel.org/
 version: 2.40.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libblkid-2.40.2-android-36-arm64-v8a.release.tar.xz
-bin-sha: 84885821ead1ab6b10821053d258abcb815981827d5aa619df36f8a651e7737b
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libblkid-2.40.2-android-36-arm64-v8a.release.tar.xz
+bin-sha: f0d0942447b4d20e399226d3bc2d11f95755293310da31d13014248b3964521d

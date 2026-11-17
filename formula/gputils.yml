@@ -1,5 +1,5 @@
 summary: GNU PIC Utilities
 webpage: https://gputils.sourceforge.io/
 version: 1.5.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/gputils-1.5.2-android-36-arm64-v8a.release.tar.xz
-bin-sha: 42643216a78a98002f96dc24f5972b691dbe849cd0c506dd746b0f5d408df1a2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/gputils-1.5.2-android-36-arm64-v8a.release.tar.xz
+bin-sha: a1bcb273e9bbfeb9dba054d1189c2f5ffb457b9f9656d04433f252d43183fec4

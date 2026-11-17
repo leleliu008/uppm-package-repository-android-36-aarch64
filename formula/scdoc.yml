@@ -1,5 +1,5 @@
 summary: A small man page generator
 webpage: https://sr.ht/~sircmpwn/scdoc/
 version: 1.11.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/scdoc-1.11.5-android-36-arm64-v8a.release.tar.xz
-bin-sha: 13601d0e2b6c8a7aeb4dbd9ec8b45f428387b131107cd936cba8a66c4bdbee09
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/scdoc-1.11.5-android-36-arm64-v8a.release.tar.xz
+bin-sha: 7b3b360aebdb9bf242de65a7b2046254ad712379dd6787134f81dd80b72367af

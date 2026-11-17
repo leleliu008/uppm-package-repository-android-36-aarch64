@@ -1,5 +1,5 @@
 summary: A rewrite of GNU ls with lots of added features like colors, icons, tree-view, more formatting options, etc
 webpage: https://github.com/lsd-rs/lsd
 version: 1.2.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/lsd-1.2.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: e1e4f8fe6f15a2041938ede177eae2ce283302d3517c973dd9df146007136ea1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/lsd-1.2.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 32afc33d7f399e96349be3ac3008b8b4f5c30d53f6fe154eeed3e00526ccb0fc

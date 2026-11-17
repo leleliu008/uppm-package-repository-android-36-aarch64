@@ -1,5 +1,5 @@
 summary: OCR (Optical Character Recognition) engine
 webpage: https://github.com/tesseract-ocr/tesseract
 version: 5.5.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libtesseract-5.5.4-android-36-arm64-v8a.release.tar.xz
-bin-sha: 3eb9bb68025e26ab5deb2a9b6d31c6bcac5d802db0f1b916f8920446d785c9c5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libtesseract-5.5.4-android-36-arm64-v8a.release.tar.xz
+bin-sha: 93502d7cc21b01cd178b8fae53904fc6ecf6ebde68446df2876cc90f7603c7fa

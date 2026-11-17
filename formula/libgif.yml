@@ -1,5 +1,5 @@
 summary: C library for processing GIFs
 webpage: https://giflib.sourceforge.net/
 version: 6.1.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/libgif-6.1.3-android-36-arm64-v8a.release.tar.xz
-bin-sha: 54153e60a6aa17d6a3c4df83e007d0ce4ec03e0ac182e8e6742be45b4ad24740
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libgif-6.1.3-android-36-arm64-v8a.release.tar.xz
+bin-sha: 05673d48900ffa84047e2e657168ac6b20e060ba664557ce471568a8c71577ec

@@ -1,5 +1,5 @@
 summary: Header-only C++ library for JSON Schema validation
 webpage: https://github.com/tristanpenman/valijson
 version: 1.1.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.13.1/valijson-1.1.4-android-aarch64.release.tar.xz
-bin-sha: 718505467be6d79e75eeb782cb0ff3d0431aff93f8c093021898371ab0c50484
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/valijson-1.1.4-android-aarch64.release.tar.xz
+bin-sha: d5a995cfce329559c0f0e74ee628a12b04a978f15d54129fb710a4b8997bc6a2
