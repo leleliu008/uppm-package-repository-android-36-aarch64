@@ -1,5 +1,5 @@
 summary: Implementation of iCalendar protocols and data formats
 webpage: https://libical.github.io/libical
-version: 4.0.7
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libical-4.0.7-android-36-arm64-v8a.release.tar.xz
-bin-sha: 70ca119a2bbb07d0752562dd8f1812460ba50b351553a98f0a87a5c5d9b7301f
+version: 4.0.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/libical-4.0.8-android-36-arm64-v8a.release.tar.xz
+bin-sha: 8a421ca9ae7cfb449bdf9e29a45d832e65cf4a2cbab1c83e05258de3b9a0e11c

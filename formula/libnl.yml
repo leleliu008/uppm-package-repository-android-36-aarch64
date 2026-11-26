@@ -1,5 +1,5 @@
 summary: Netlink Library based Linux kernel interfaces
 webpage: https://github.com/thom311/libnl
 version: 3.12.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libnl-3.12.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 95a4ea45b800704e199503afb21d48b90576782c2195dad74a2e7dc369716f16
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/libnl-3.12.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 5d06879a41656b28352f6986d8362d4dc2f8a1bbd7db7b70b8165ebe5a0ad717

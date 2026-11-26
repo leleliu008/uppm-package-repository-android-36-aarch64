@@ -1,5 +1,5 @@
 summary: Regular expressions library
 webpage: https://github.com/kkos/oniguruma
 version: 6.9.10
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libonig-6.9.10-android-36-arm64-v8a.release.tar.xz
-bin-sha: 9dc1c3cf538c24528f3c5dabb066824b62711f41470e41e6e3d8eb67b5db4dd7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/libonig-6.9.10-android-36-arm64-v8a.release.tar.xz
+bin-sha: 5fba895b69ff1e041a1eb83794c6fc9720a0820b8c0a0b83d9e7470a7f373e4d

@@ -1,5 +1,5 @@
 summary: Unified display of technical and tag data for audio/video
 webpage: https://mediaarea.net/
 version: 0.4.41
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libzen-0.4.41-android-36-arm64-v8a.release.tar.xz
-bin-sha: 081751f5612f663a60ae92031cff460bed855bbaa4a01e17a11918d2661dbaf5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/libzen-0.4.41-android-36-arm64-v8a.release.tar.xz
+bin-sha: 25d726c4d617c1c2770ff0603f4d631c30853566295c980521b3bee82a6826ed

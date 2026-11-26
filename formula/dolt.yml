@@ -1,5 +1,5 @@
 summary: Git for Data
 webpage: https://github.com/dolthub/dolt
-version: 2.7.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/dolt-2.7.3-android-36-arm64-v8a.release.tar.xz
-bin-sha: 0566293afcdf970f3239c9032634dc49bff9c1794201b359e2d029b7ab14a50c
+version: 2.7.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/dolt-2.7.6-android-36-arm64-v8a.release.tar.xz
+bin-sha: ddf570dc79ad873ac0995b4fc69184c09ecbde15bdb342b9d84160c4baa89ab8

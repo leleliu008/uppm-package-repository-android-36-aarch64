@@ -1,5 +1,5 @@
 summary: Fast script language for Go
 webpage: https://tengolang.com
 version: 3.0.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/tengo-3.0.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: e903e43a4c1de75cede315ef247f3ef07ba83d8525a4ecba911750374d909940
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/tengo-3.0.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: da3d6f406bfd70c46afa638d6519f5e04b93442e9823f666c5d0ca5ce9c25761

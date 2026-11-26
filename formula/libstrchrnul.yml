@@ -1,5 +1,5 @@
 summary: returns a pointer to the first occurrence of the character c in the string s
 webpage: https://man7.org/linux/man-pages/man3/strchrnul.3.html
 version: 1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libstrchrnul-1-android-36-arm64-v8a.release.tar.xz
-bin-sha: 74c23be194e5c0afe583e5c950fe65a74ba896b280d3b6ab3340887d834f6873
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/libstrchrnul-1-android-36-arm64-v8a.release.tar.xz
+bin-sha: 5496addc7b8c8f58273ae7c689c93306f1d829611deedcf96dc09017f0e9b948

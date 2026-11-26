@@ -1,5 +1,5 @@
 summary: State machine compiler
 webpage: https://www.colm.net/open-source/ragel/
 version: 6.11
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/ragel-6.11-android-36-arm64-v8a.release.tar.xz
-bin-sha: cf0873102b4f932b4d0b946a44eaceab83d86884b823e73dfce4113dc57923c1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/ragel-6.11-android-36-arm64-v8a.release.tar.xz
+bin-sha: 2014093847744e45fa02a70e7603cb8f0807c087471cf5074b36cf5ebf72598d

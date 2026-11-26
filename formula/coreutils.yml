@@ -1,5 +1,5 @@
 summary: GNU File, Shell, and Text utilities
 webpage: https://www.gnu.org/software/coreutils
 version: 9.12
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/coreutils-9.12-android-36-arm64-v8a.release.tar.xz
-bin-sha: 9f19957ff55e5b65ce35214d5822b1f78aea4b291c8cf25d31e9ed90b8dd9a34
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/coreutils-9.12-android-36-arm64-v8a.release.tar.xz
+bin-sha: 3b85d814ef1e85670f1b102c564cc2388396a306b090ec0bd95c0d9570ccf34e

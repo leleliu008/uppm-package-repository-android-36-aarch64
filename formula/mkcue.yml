@@ -1,5 +1,5 @@
 summary: Generate a CUE sheet from a CD
 webpage: https://packages.debian.org/sid/mkcue
 version: 1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/mkcue-1-android-36-arm64-v8a.release.tar.xz
-bin-sha: dc3d55fcea9378a3b47ff5d47a0d1955b4e7e82a7b89e34a821637a278ea6321
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/mkcue-1-android-36-arm64-v8a.release.tar.xz
+bin-sha: 91012692c0790cc6602160121899932159669aac3824b7457d09561f6051cbc8

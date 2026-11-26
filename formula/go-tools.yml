@@ -1,5 +1,5 @@
 summary: A state-of-the-art linter for the Go programming language
 webpage: https://github.com/dominikh/go-tools
 version: 2026.2.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/go-tools-2026.2.2-android-36-arm64-v8a.release.tar.xz
-bin-sha: 746c77825ac4c40e43cac1e7d94ad69abe446c3315d23af0d1a00cebd1116873
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/go-tools-2026.2.2-android-36-arm64-v8a.release.tar.xz
+bin-sha: 436adf1a73592dfe72f8d82a264dab8ae8ec3e657d75d535700530545f1d93e1

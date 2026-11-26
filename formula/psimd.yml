@@ -1,5 +1,5 @@
 summary: Portable 128-bit SIMD intrinsics
 webpage: https://github.com/Maratyszcza/psimd
-version: 2026.11.16
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/psimd-2026.11.16-android-aarch64.release.tar.xz
-bin-sha: 565d725043ad53d514eed5de2f41d999f2f64ab2a29d0d247c8bc9f6b927bdf6
+version: 2026.11.23
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/psimd-2026.11.23-android-aarch64.release.tar.xz
+bin-sha: c51120878fd4189d7e222a928b89d47ab707896808a5e69b313ec498d9086d45

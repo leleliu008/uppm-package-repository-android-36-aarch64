@@ -1,5 +1,5 @@
 summary: A post-modern modal text editor
 webpage: https://helix-editor.com/
 version: 25.07.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/helix-25.07.1-android-36-arm64-v8a.release.tar.xz
-bin-sha: f6880147295569fc2da0290b713553212be7e4c763bba94f4150af2706463500
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/helix-25.07.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: d7d9b2f8eef7f2ea3a9b09fac3c248ddf0f75bf341e77df6d19bd9c0ab6b4d3e

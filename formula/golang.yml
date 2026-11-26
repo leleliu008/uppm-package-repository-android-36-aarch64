@@ -1,5 +1,5 @@
 summary: Open source programming language to build simple/reliable/efficient software
 webpage: https://go.dev/
 version: 1.27.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/golang-1.27.4-android-36-arm64-v8a.release.tar.xz
-bin-sha: 67c6a9f5142fd2e8f8beef79dbdf56e62d1fab6319b9d49f104a468a6fcb0043
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/golang-1.27.4-android-36-arm64-v8a.release.tar.xz
+bin-sha: 11d4435182df3a82e348683afe43265cc5918941068c8b2c484ecdd226e06fa0

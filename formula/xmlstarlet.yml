@@ -1,5 +1,5 @@
 summary: A set of command line tools to transform, query, validate, and edit XML documents and files
 webpage: https://xmlstarlet.github.io/
 version: 1.7.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/xmlstarlet-1.7.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 0d8e6cbde376ffd541afddb6aedc8f9fc0945743e82a17cb6270a0c20bdf9bfb
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/xmlstarlet-1.7.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: d64176fdd62dfeaae794f58d752fe363a75d80de5481c95813d31b3f120deffd

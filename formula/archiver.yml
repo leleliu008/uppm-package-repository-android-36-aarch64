@@ -1,5 +1,5 @@
 summary: Cross-platform, multi-format archive utility
 webpage: https://github.com/mholt/archiver
 version: 3.5.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/archiver-3.5.1-android-36-arm64-v8a.release.tar.xz
-bin-sha: 4bbbf6d9eadfacdcb5488b36074d776aa4aacf67c827b958fc71a5002334af0d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/archiver-3.5.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: db19e1475573ef4a49bf000678227993850a41f0a8c6538db3acba99907fc33c

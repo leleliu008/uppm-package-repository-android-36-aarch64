@@ -1,5 +1,5 @@
 summary: Linux virtual machines
 webpage: https://lima-vm.io/
 version: 2.3.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/lima-2.3.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: fc94c7f16ee14adef78c8ba6af658dbc9bd6d4f26d805992d1ae92ce1d8364b4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/lima-2.3.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: c21c98851f222009761d7d237310669c3639d916b922897c14e9968e8a8a88c9

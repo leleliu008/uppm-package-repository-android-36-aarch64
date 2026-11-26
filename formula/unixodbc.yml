@@ -1,5 +1,5 @@
 summary: ODBC 3 connectivity for UNIX
 webpage: https://www.unixodbc.org/
 version: 2.3.14
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/unixodbc-2.3.14-android-36-arm64-v8a.release.tar.xz
-bin-sha: 24650e6d5f5f63dec46174f3b517ad0c7a0cc3c4238191ab50a40d2f7c89766c
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/unixodbc-2.3.14-android-36-arm64-v8a.release.tar.xz
+bin-sha: a122dcb20db2e398fe4a575620692d5affd58709815c0d8c6fabdd2b119fb7fe

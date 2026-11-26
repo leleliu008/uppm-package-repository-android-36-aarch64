@@ -1,5 +1,5 @@
 summary: Interactive grep (for streaming)
 webpage: https://github.com/ynqa/sig
 version: 0.3.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/sig-0.3.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 3a9289d41ea3574e35d91e50f2fd298171bf904d85c2a783e9482ec1cac714f0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/sig-0.3.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: f09d732fb45ac150331200422fc2c410e571f6b62d00f4e689b3a02629fe8b89

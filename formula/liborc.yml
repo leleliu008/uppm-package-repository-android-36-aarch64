@@ -1,5 +1,5 @@
 summary: Oil Runtime Compiler (ORC)
 webpage: https://gstreamer.freedesktop.org/projects/orc.html
 version: 0.4.44
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/liborc-0.4.44-android-36-arm64-v8a.release.tar.xz
-bin-sha: 368ad4d36ddaee4d790553aa2a85d3cc199bde3fdb4afa6ef00df6aa6b0b7fe8
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/liborc-0.4.44-android-36-arm64-v8a.release.tar.xz
+bin-sha: 1144e7843b3d8788ff30338907b46178b500ed619e0c044da5fafdd2bfa0eb23

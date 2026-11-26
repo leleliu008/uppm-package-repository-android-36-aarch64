@@ -1,5 +1,5 @@
 summary: New way of working with Protocol Buffers
 webpage: https://github.com/bufbuild/buf
 version: 1.75.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/buf-1.75.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 2e8049100fd131fe1fec6b30356348bfc653c974bdcb6f02fa6a4a9272a0b567
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/buf-1.75.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 6ac16cc47f34639d4c906d26a5eb9c62ce4a5da605733c709ba0c69e4120d17d

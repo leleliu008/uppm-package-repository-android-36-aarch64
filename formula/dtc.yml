@@ -1,5 +1,5 @@
 summary: Device tree compiler
 webpage: https://mirrors.edge.kernel.org/
 version: 1.8.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/dtc-1.8.1-android-36-arm64-v8a.release.tar.xz
-bin-sha: 6a3aeca0fb18052054329161df161c06985a43196af5f0330ae04e98fdcb086b
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/dtc-1.8.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: a10dcd7068250f9e22cfe09c878b95bacb990e3dc03a2431d43ad788bbecee2c

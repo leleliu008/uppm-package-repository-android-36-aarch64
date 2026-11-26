@@ -1,5 +1,5 @@
 summary: Arbitrary precision numeric processing language
 webpage: https://www.gnu.org/software/bc
 version: 1.08.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/bc-1.08.2-android-36-arm64-v8a.release.tar.xz
-bin-sha: 1aa9e5fcabdc3ff80df256f6e7e37c588a88774f6cd3f969139805947f0342f6
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/bc-1.08.2-android-36-arm64-v8a.release.tar.xz
+bin-sha: 488580a8fbe4d3ea358835817dadb8b8c3086b7cb0e288fcf32e90879817d7aa

@@ -1,5 +1,5 @@
 summary: Parse HTML at the command-line
 webpage: https://github.com/EricChiang/pup
-version: 2026.11.16
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/pup-2026.11.16-android-36-arm64-v8a.release.tar.xz
-bin-sha: e637941ea6156a68c64a1ad1995b9554320243044e65ffaf1293464b08a9c5c6
+version: 2026.11.24
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/pup-2026.11.24-android-36-arm64-v8a.release.tar.xz
+bin-sha: 34ecdc999c59e0d96bbc3e571ca189230f777513cbd45247e492d881222ee84b

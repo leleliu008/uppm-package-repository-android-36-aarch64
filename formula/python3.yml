@@ -1,5 +1,5 @@
 summary: Interpreted, interactive, object-oriented programming language
 webpage: https://www.python.org/
 version: 3.11.11
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/python3-3.11.11-android-36-arm64-v8a.release.tar.xz
-bin-sha: 84e9801095c9996a46e7535007c718f10a16de741523b3d47fdd8ba94404ae0e
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/python3-3.11.11-android-36-arm64-v8a.release.tar.xz
+bin-sha: 89c8d77195df0933d80227d3695631b5ac492cc1302a507f96145d3bed63ecac

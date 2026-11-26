@@ -1,5 +1,5 @@
 summary: A lightweight and flexible command-line JSON processor
 webpage: https://jqlang.github.io/jq/
 version: 1.8.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/jq-1.8.2-android-36-arm64-v8a.release.tar.xz
-bin-sha: 310bb9f318b7ceae3e4d55f8d30bb634a640a377c28e72dd515e34e6f5287b58
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/jq-1.8.2-android-36-arm64-v8a.release.tar.xz
+bin-sha: 5fbaec98f3365acb2c23414a1643ad36f7c8c93a60e47615e69245f50634ff31

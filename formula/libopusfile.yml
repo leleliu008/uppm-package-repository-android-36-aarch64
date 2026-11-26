@@ -1,5 +1,5 @@
 summary: API for decoding and seeking in .opus files
 webpage: https://www.opus-codec.org/
 version: 0.12
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libopusfile-0.12-android-36-arm64-v8a.release.tar.xz
-bin-sha: e7c1f0c46158696b6c4cb9b484d634a7d0419ca57c345901909de4cac3740be6
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/libopusfile-0.12-android-36-arm64-v8a.release.tar.xz
+bin-sha: 2eb0d7216033a53684e5457dfb4ff6425fdc58e0805ace8df810a5fd9188b542

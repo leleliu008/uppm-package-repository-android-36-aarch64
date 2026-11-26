@@ -1,5 +1,5 @@
 summary: rust implementation of the GNU coreutils
 webpage: https://uutils.github.io/coreutils/
-version: 0.12.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/uutils-coreutils-0.12.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 79fdb873a67aa60653f925a4f117fd0248357c04f300d3fcb88a8d27133a0804
+version: 0.13.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/uutils-coreutils-0.13.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 2296a5ee860103aca62d5941450ff74c1a51a2c9c6d13a66c4ad01639363475f

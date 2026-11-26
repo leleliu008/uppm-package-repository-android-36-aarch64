@@ -1,5 +1,5 @@
 summary: Remote terminal application
 webpage: https://mosh.org/
 version: 1.4.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/mosh-1.4.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 586589697fae6625e4d12ad9c79045d291f6e14a5638ba2f3d959b85b225788d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/mosh-1.4.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 141140e8f10165255ab839d2eec91c2f5c17a9c031a000aa92518b300a093343

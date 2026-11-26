@@ -1,5 +1,5 @@
 summary: High-level C binding for ZeroMQ
 webpage: http://czmq.zeromq.org/
 version: 4.2.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libczmq-4.2.1-android-36-arm64-v8a.release.tar.xz
-bin-sha: 02352a785b0f3ad3e38115813d3e6398e18167e2a19f4c9ed99792e0b1997da3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/libczmq-4.2.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: d1d4997233dfa3d5daa6066b4002f4a54f7a1425d354fbdf2802d4ea37ccc7bd

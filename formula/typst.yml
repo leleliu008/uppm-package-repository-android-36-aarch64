@@ -1,5 +1,5 @@
 summary: Markup-based typesetting system
 webpage: https://typst.app/
 version: 0.15.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/typst-0.15.1-android-36-arm64-v8a.release.tar.xz
-bin-sha: 23b5e9ad61f650e88168ac7ff1ec3e59fd4b697d139e68f18f0a6adf3aae2a12
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/typst-0.15.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: aacc00b60f39be70d1d27ab736670724f3ee14d2a93f5c2d786b29e1609e572c

@@ -1,5 +1,5 @@
 summary: C library for zip/unzip via zLib
 webpage: https://www.winimage.com/zLibDll/minizip.html
 version: 1.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libminizip-1.4-android-36-arm64-v8a.release.tar.xz
-bin-sha: 19193225f5c6ada8998d1e6c623cbd8397cd485c6e07efde089ca87c430a700c
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/libminizip-1.4-android-36-arm64-v8a.release.tar.xz
+bin-sha: 40c6b1966b9f031df0fb24e50c30d1188a0f7d9a5321cea96991d72e8b8408b6

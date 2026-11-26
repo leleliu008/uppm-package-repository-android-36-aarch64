@@ -1,5 +1,5 @@
 summary: An open source library to store and retrieve huge raster coverages
 webpage: https://www.gaia-gis.it/fossil/librasterlite/index
 version: 1.1.0.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/librasterlite2-1.1.0.1-android-36-arm64-v8a.release.tar.xz
-bin-sha: 695432a64eb0bad9e30e8b41b3896c7a7641a5e2d827a55d1e2c74a4fa3272ae
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/librasterlite2-1.1.0.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: d99c372d9e6092e28fd45def025b7f91923f8b0384d3fbde79d3fd389d02b169

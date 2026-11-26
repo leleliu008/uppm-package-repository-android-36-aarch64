@@ -1,5 +1,5 @@
 summary: PEG grammar optimizer and formatter. Supports any grammar supported by PackCC parser generator.
 webpage: https://github.com/dolik-rce/pegof
-version: 2026.11.16
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/pegof-2026.11.16-android-36-arm64-v8a.release.tar.xz
-bin-sha: c02760f4b43186d20a8711245e153699a7c2dcee46f6279d0b7d49ad1ef59458
+version: 2026.11.23
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/pegof-2026.11.23-android-36-arm64-v8a.release.tar.xz
+bin-sha: ef7eba6542daa8cedc847034ef5121a010e2140afcf31a4c868cf9f0f06543b8

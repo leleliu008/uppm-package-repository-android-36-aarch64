@@ -1,5 +1,5 @@
 summary: A HTTP server to execute shell commands
 webpage: https://github.com/msoap/shell2http
 version: 1.18.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/shell2http-1.18.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: f0ea512bbd07538a9c1768d3140cb2b3d2ce8f2ae5be7dc3e13aa625ffd9315e
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/shell2http-1.18.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 82614238372395be7859b96322b703b35e91dc72c52dc85cd8bb6645093fd210

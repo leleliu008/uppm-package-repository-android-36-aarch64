@@ -1,5 +1,5 @@
 summary: Convert text strings to printed bars
 webpage: https://www.gnu.org/software/barcode
 version: 0.99
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/gnu-barcode-0.99-android-36-arm64-v8a.release.tar.xz
-bin-sha: c779f86e784eac6653f60d28c21d521275c4ec9ede1b2cb49f639ee9734d88a8
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/gnu-barcode-0.99-android-36-arm64-v8a.release.tar.xz
+bin-sha: 6c789164496bb902664194c3f9c9bbd431cb3a3179e3a8a76d01050370c8f344

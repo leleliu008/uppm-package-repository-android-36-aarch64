@@ -1,5 +1,5 @@
 summary: A Rust implementation of Minisign
 webpage: https://github.com/jedisct1/rsign2
 version: 0.6.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/rsign2-0.6.5-android-36-arm64-v8a.release.tar.xz
-bin-sha: 7fff596bf021719622ad970e752dca5bea3c4b67b3fd4884f34e7f9824cef2f0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/rsign2-0.6.5-android-36-arm64-v8a.release.tar.xz
+bin-sha: 3d06284bb3eb30224e4c8851b7cfe34232b457fb87a4621ea7aa0e084b789c3b

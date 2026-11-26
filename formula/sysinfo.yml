@@ -1,5 +1,5 @@
 summary: A command-line tool to show your currently running system information
 webpage: https://github.com/leleliu008/sysinfo
-version: 2026.11.17
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/sysinfo-2026.11.17-android-36-arm64-v8a.release.tar.xz
-bin-sha: 06d1d35604742a7bf6206788280e0fa39a0a3db16a6dee5ddf1509796428763c
+version: 2026.11.24
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/sysinfo-2026.11.24-android-36-arm64-v8a.release.tar.xz
+bin-sha: d0b82dbe7cb5961cc62818db90e34f11a02926c95b5f4f3ffc15336f40992309

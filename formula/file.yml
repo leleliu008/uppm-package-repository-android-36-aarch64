@@ -1,5 +1,5 @@
 summary: A command-line tool to determine file types
 webpage: https://www.darwinsys.com/file
 version: 5.48
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/file-5.48-android-36-arm64-v8a.release.tar.xz
-bin-sha: 440949bb52e8296df9f4591a6039d310dfd1fe66a194c1868a01976280d14ee7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/file-5.48-android-36-arm64-v8a.release.tar.xz
+bin-sha: 11b970cd15d7c163ce70b252e74b88a58e6fd8a324991d195a6dbd62f725eed4

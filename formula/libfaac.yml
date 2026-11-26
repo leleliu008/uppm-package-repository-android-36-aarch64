@@ -1,5 +1,5 @@
 summary: ISO AAC audio encoder
 webpage: https://sourceforge.net/projects/faac
 version: 2.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libfaac-2.2-android-36-arm64-v8a.release.tar.xz
-bin-sha: d554d1b53c2ef102e750b50e93a140bb7a4e19a023bb2129fbcf99381b8b0ee0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/libfaac-2.2-android-36-arm64-v8a.release.tar.xz
+bin-sha: 0974b82697f0887d6d22f8e17bd7bf8d337d00bbb0dd431bb0a942eef45f0f5c

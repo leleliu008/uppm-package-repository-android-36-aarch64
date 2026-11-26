@@ -1,5 +1,5 @@
 summary: Manage compile and link flags for libraries
 webpage: https://freedesktop.org/wiki/Software/pkg-config
 version: 0.29.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/pkg-config-0.29.2-android-36-arm64-v8a.release.tar.xz
-bin-sha: f719b47f651e5296d16c39fdc54e6605b71dd5ce8f854de475a4ebd3bc1863a6
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/pkg-config-0.29.2-android-36-arm64-v8a.release.tar.xz
+bin-sha: bb3669388138898be8d82299320afd8e1a4879a84ce99a565586f36c80951fe1

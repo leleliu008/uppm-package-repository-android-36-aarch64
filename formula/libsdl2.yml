@@ -1,5 +1,5 @@
 summary: A cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D
 webpage: https://www.libsdl.org/
 version: 2.30.9
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libsdl2-2.30.9-android-36-arm64-v8a.release.tar.xz
-bin-sha: c942912b1e89d786223050da67cdb7fa9d5a1dbd6c180824fb54081075bcd3d7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/libsdl2-2.30.9-android-36-arm64-v8a.release.tar.xz
+bin-sha: 5a8caeb814a422658d2dfb4a4e5817a0b7b16399810f9e883fe41a31465f0e6f

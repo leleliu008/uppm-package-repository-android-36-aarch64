@@ -1,5 +1,5 @@
 summary: Image manipulation library
 webpage: https://www.ijg.org/
 version: 10
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libjpeg-10-android-36-arm64-v8a.release.tar.xz
-bin-sha: cd0be8672912de3b222d0f44228c58f52310863215f4466b6f52d4051282dca1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/libjpeg-10-android-36-arm64-v8a.release.tar.xz
+bin-sha: e8fceac476f0ca25db5763de3685328d6d0646e8b426a770d2f9fad8df169cae

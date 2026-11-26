@@ -1,5 +1,5 @@
 summary: C library includes YUV conversion and scaling functionality
 webpage: https://chromium.googlesource.com/libyuv/libyuv
 version: 1788
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libyuv-1788-android-36-arm64-v8a.release.tar.xz
-bin-sha: 90559844d1dcf95c70859aa52edbacd5d8536328ceeb2354a398b37419e419da
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/libyuv-1788-android-36-arm64-v8a.release.tar.xz
+bin-sha: 6b3877ee3e66f0ad1b8e5ac357dcc1208c59bd1c3463d8c4203797ce31f8c8f0

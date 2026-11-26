@@ -1,5 +1,5 @@
 summary: Pre-commit re-implemented in Rust
 webpage: https://github.com/j178/prek
-version: 0.5.10
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/prek-0.5.10-android-36-arm64-v8a.release.tar.xz
-bin-sha: 365e2c67c3e77c42204dac36b3307e9cad8d59002410be88f14e7cd2f9c140a2
+version: 0.5.11
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/prek-0.5.11-android-36-arm64-v8a.release.tar.xz
+bin-sha: 241f13550a8bda94076aa0b977d2c2d2aba0dde373f28584db93be3e49edc0b0

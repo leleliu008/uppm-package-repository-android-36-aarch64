@@ -1,5 +1,5 @@
 summary: A fast JSON parser and generator for C++ with SAX and DOM style APIs
 webpage: http://rapidjson.org/
 version: 1.1.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/rapidjson-1.1.0-android-aarch64.release.tar.xz
-bin-sha: 3b489fe1dcb981441aafb2bd0082a5fb9e8735628090a370bed17af173c6d0f4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/rapidjson-1.1.0-android-aarch64.release.tar.xz
+bin-sha: 3f5105b6657e70545d5297219185933ef6c56b902aa94fc4429000ff0ad7dee5

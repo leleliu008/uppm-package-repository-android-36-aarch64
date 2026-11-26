@@ -1,5 +1,5 @@
 summary: Z Shell
 webpage: https://www.zsh.org
 version: 5.9.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.2/zsh-5.9.2-android-36-arm64-v8a.release.tar.xz
-bin-sha: 2eb501a605af7fed9c7c700c913491bb63e0ecec0885ab3268d68d82dc106517
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.2/zsh-5.9.2-android-36-arm64-v8a.release.tar.xz
+bin-sha: d92ab4e702800d2caf4d84f128060b7e647ca815f989a8a5a3e80b20f2c43fa6

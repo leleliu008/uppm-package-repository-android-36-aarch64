@@ -1,5 +1,5 @@
 summary: General-purpose cryptographic library
 webpage: https://github.com/aws/aws-lc
-version: 5.14.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/aws-lc-5.14.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 0f233d56988132eca4121b02bbaca4616bd7b817e588c6decdfc2e907ae8c2fd
+version: 5.15.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/aws-lc-5.15.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: b38a037182dd0a30aea7686f413463179ee79418d48f3a67b5eb5ed3f6384a02

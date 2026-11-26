@@ -1,5 +1,5 @@
 summary: Cartographic Projections Library
 webpage: https://proj.org/
 version: 9.9.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/proj-9.9.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: feaa0b09c2fbdeca5cb97aa561cb0fcbd6378c02b29e5ff6c4c1fd632536865a
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/proj-9.9.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 03dc24bc5e4f029deff06b2d04ff2828b55bb10b619082891cc35469a0af724a

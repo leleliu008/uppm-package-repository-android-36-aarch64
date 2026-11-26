@@ -1,5 +1,5 @@
 summary: Use SOCKS-friendly applications with Tor
 webpage: https://deb.debian.org/
 version: 2.5.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/torsocks-2.5.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: caedbf3e677a0fae0b07c2d881029d6c48e40c5c8e7094acab3068835b7df291
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/torsocks-2.5.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: b5cb0298aa05d2e669da2f93b004a24ab76bc323947b2dade84ab19a3e85d01a

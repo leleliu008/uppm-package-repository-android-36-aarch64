@@ -1,5 +1,5 @@
 summary: Header-only general purpose library
 webpage: https://github.com/redcode/Zeta
-version: 2026.11.16
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/zeta-2026.11.16-android-aarch64.release.tar.xz
-bin-sha: ebe047cf2397eaa72d6bfe6a9df2c48f1cf2b3f753c28de54a4663a0270b1ec8
+version: 2026.11.23
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/zeta-2026.11.23-android-aarch64.release.tar.xz
+bin-sha: 242e31cc114aad1c987f7db24c5661a73ec4b11c27780c356e9c561368fd5ab5

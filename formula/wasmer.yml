@@ -1,5 +1,5 @@
 summary: The Universal WebAssembly Runtime
 webpage: https://wasmer.io
 version: 7.5.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/wasmer-7.5.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: adf891bc30a2ef00b880e004226876a8d5191857f81afda811f057b68254826c
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/wasmer-7.5.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 3fc1b5bec3b8dd43281cce05e7c9670183fa79459d7ea869263b86bf847fb6f6

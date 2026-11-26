@@ -1,5 +1,5 @@
 summary: CLI to convert between YAML, TOML, JSON and HCL
 webpage: https://github.com/sclevine/yj
 version: 5.1.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/yj-5.1.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 72e6f83778a109a95928c8d6a06d0cf2a7e36cbbaea64c2e16a32cd2bacb5676
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/yj-5.1.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 1878e4e17afecfdc5cc0f6cce4dc470a4517a613c51814ee1b9fb2d08f7dcea6

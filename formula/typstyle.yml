@@ -1,5 +1,5 @@
 summary: A beautiful and reliable code formatter for Typst
 webpage: https://enter-tainer.github.io/typstyle/
-version: 0.15.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/typstyle-0.15.2-android-36-arm64-v8a.release.tar.xz
-bin-sha: 0ad6fa243aed0c3d0600a886d3248ff0750168229d4bb8ebd84368a1fb16c01f
+version: 0.15.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/typstyle-0.15.3-android-36-arm64-v8a.release.tar.xz
+bin-sha: 54c9cc16c934c2a89df8423e77f816e336c457f059b521fb0ebc9951d96d583b

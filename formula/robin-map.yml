@@ -1,5 +1,5 @@
 summary: C++ implementation of a fast hash map and hash set
 webpage: https://github.com/Tessil/robin-map
 version: 1.4.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/robin-map-1.4.1-android-aarch64.release.tar.xz
-bin-sha: e313de8b66c65aee3890f9d30897bde4379a0e36bcce71428a30abf685ca0c0c
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/robin-map-1.4.1-android-aarch64.release.tar.xz
+bin-sha: 6884163750a4c404f33dca268b76c063835f7600893bb759307e9bc3296dc3df

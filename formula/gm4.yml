@@ -1,5 +1,5 @@
 summary: Macro processing language
 webpage: https://www.gnu.org/software/m4
 version: 1.4.21
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/gm4-1.4.21-android-36-arm64-v8a.release.tar.xz
-bin-sha: 22b445ba98fcb9a0b4a8bebf1dcfabe896f4cad684a3f5d7b08c699bf7bcf438
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/gm4-1.4.21-android-36-arm64-v8a.release.tar.xz
+bin-sha: 6f4581d59bfc4def3c99869d40426838721bf95fab8a46ed7df58de53e87c57b

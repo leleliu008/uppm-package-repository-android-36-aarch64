@@ -1,5 +1,5 @@
 summary: A command-line tool for interacting with SQLite databases
 webpage: https://sqlite.org/
 version: 3.54.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/sqlite3-3.54.1-android-36-arm64-v8a.release.tar.xz
-bin-sha: 3f99aa202574fd0ecad018f1fa815ad110f49832dd4fd76e82a65b043ab4537e
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/sqlite3-3.54.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: e87ad4e81eae8469b6e228b8d858e9b588aca66cd884e1ea9b3e2e93b1689de1

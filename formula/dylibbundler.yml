@@ -1,5 +1,5 @@
 summary: Utility to bundle libraries into executables for macOS
 webpage: https://github.com/auriamg/macdylibbundler
 version: 1.0.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/dylibbundler-1.0.5-android-36-arm64-v8a.release.tar.xz
-bin-sha: 5f4fc2e91ab2a201c593615b258296188d00d6d310a12bcfc208f510ef11b6e2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/dylibbundler-1.0.5-android-36-arm64-v8a.release.tar.xz
+bin-sha: e5be0e7568e7440cd319fe73036305940f9fdf81e7d3602c91317f01018e2f2f

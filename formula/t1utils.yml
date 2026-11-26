@@ -1,5 +1,5 @@
 summary: Command-line tools for dealing with Type 1 fonts
 webpage: https://www.lcdf.org/type/
 version: 1.42
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/t1utils-1.42-android-36-arm64-v8a.release.tar.xz
-bin-sha: 212762708c024b844cb8f0e92d0dc61e3bb8611e7a28225edc1ef4f16e818ba5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/t1utils-1.42-android-36-arm64-v8a.release.tar.xz
+bin-sha: 961ddb4dc9f8b99abec8bf6e44c45aee80642858fc61f2e03c1206b491c7bdae

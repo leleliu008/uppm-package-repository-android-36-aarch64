@@ -1,5 +1,5 @@
 summary: Matching Algorithm with Recursively Implemented StorAge
 webpage: https://github.com/s-yata/marisa-trie
 version: 0.3.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/marisa-0.3.1-android-36-arm64-v8a.release.tar.xz
-bin-sha: 946529c3c23d18be658434a79f57b2fa02726117b12e0d12e576947fa07a5f4e
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/marisa-0.3.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: e722f5f8599c932da299eb2cc4ad743365566a89edf6af98876080eb63cd5055

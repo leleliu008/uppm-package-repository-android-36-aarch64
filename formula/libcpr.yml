@@ -1,5 +1,5 @@
 summary: A simple wrapper around libcurl for C++ Requests
 webpage: https://docs.libcpr.org/
 version: 1.15.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libcpr-1.15.1-android-36-arm64-v8a.release.tar.xz
-bin-sha: 1468650a399675e60950bb6c2db7fa729650fb023c673b8254fd14974d7cfba8
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/libcpr-1.15.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: 3d225f23b53d1e2c9cc55c3cdf9445b407a87fe46f9efbbf5a822cb978f2d115

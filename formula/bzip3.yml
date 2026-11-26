@@ -1,5 +1,5 @@
 summary: A better and stronger spiritual successor to BZip2
 webpage: https://github.com/iczelia/bzip3
 version: 1.5.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/bzip3-1.5.5-android-36-arm64-v8a.release.tar.xz
-bin-sha: 6df0d1790173b1f00fbae263218089acb6edf2c338a445b99b097504ec50c9c9
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/bzip3-1.5.5-android-36-arm64-v8a.release.tar.xz
+bin-sha: 5f78a4edc3865e9e4bfcca998a054cd5838bb53b1cc342eea3c6da928b20df22

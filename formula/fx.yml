@@ -1,5 +1,5 @@
 summary: Terminal JSON viewer
 webpage: https://fx.wtf
-version: 40.0.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/fx-40.0.1-android-36-arm64-v8a.release.tar.xz
-bin-sha: 084ed2acfc1c71bf243a4b3b0689d3af22d14958c8398f13213bf5a3b3ae16fb
+version: 40.0.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/fx-40.0.2-android-36-arm64-v8a.release.tar.xz
+bin-sha: e20736acf9537d656b89eab1727d7eba56264464680aa69c2861810391da6716

@@ -1,5 +1,5 @@
 summary: Open source, general-purpose policy engine
 webpage: https://www.openpolicyagent.org
 version: 1.22.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/opa-1.22.4-android-36-arm64-v8a.release.tar.xz
-bin-sha: 74bdc224155bf9cc3a5f789daeaf4e9f80cb62128864dd0f15515c25f1780eca
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/opa-1.22.4-android-36-arm64-v8a.release.tar.xz
+bin-sha: 49ded08ef3ef65364787b1282af7fc416f00cced4d82db60bfac2394b61d239b

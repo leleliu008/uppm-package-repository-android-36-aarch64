@@ -1,5 +1,5 @@
 summary: Open source computer vision library
 webpage: https://opencv.org/
 version: 5.1.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/opencv-5.1.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 5a8a7d93ea2c3b300f1a827b5427a36d9e10d2dcb0499a1996e78589a7d45b05
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/opencv-5.1.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 3548225ea56aa62d532eb106b40fbd45c139fd2d3e5a2aa8e8a2e225919fba4d

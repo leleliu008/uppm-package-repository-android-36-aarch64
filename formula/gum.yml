@@ -1,5 +1,5 @@
 summary: A tool for glamorous shell scripts
 webpage: https://github.com/charmbracelet/gum
 version: 2.0.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/gum-2.0.2-android-36-arm64-v8a.release.tar.xz
-bin-sha: ebee3542353f1eee5418b254a641453c1bd6cf37876ecaf62d93f60143603ad7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/gum-2.0.2-android-36-arm64-v8a.release.tar.xz
+bin-sha: 3df4f861ef778dde0ac6f1cfc3642f52a1d511c51d5b4f7e233d1ce7980c1469

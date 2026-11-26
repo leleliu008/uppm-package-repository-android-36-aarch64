@@ -1,5 +1,5 @@
 summary: A collection of tools for glib
 webpage: https://developer.gnome.org/glib
 version: 2.90.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/glib-tools-2.90.1-android-36-arm64-v8a.release.tar.xz
-bin-sha: f0acae7961fdd4aaa108df034090f4c5fa4af0d03471267b15fa22952e707385
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/glib-tools-2.90.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: 5af35ae5d2404aad0ba7a7770acd82facf1fa63461be35c40632c93d4fb642b8

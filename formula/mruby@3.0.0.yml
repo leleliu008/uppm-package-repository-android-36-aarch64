@@ -1,5 +1,5 @@
 summary: A lightweight implementation of the Ruby language
 webpage: https://mruby.org/
 version: 3.0.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/mruby-3.0.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: a3c88d566613bc7fc86e10c614a6b018dffdc8e77dfa1fbce0608394ea2de570
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/mruby-3.0.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: 7a503ed3ecd528ca2c38fda0b89e75188ae83877eb3d4b3ef5d071986f636fb3

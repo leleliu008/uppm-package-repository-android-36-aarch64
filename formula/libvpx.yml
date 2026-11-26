@@ -1,5 +1,5 @@
 summary: VP8/VP9 video codec
 webpage: https://www.webmproject.org/code/
 version: 1.17.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libvpx-1.17.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: 4668f4ab5621d54c5de6eb069bcca171168268c1df6f4fe4e9c275e35b685855
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/libvpx-1.17.0-android-36-arm64-v8a.release.tar.xz
+bin-sha: c681fe4b5e34f8b672c82a57dcd6d500376e5ae800685e69b355585318ad7e75

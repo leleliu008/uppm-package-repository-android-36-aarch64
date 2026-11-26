@@ -1,5 +1,5 @@
 summary: A command-line tool that performs content-preserving transformations on PDF files
 webpage: https://github.com/qpdf/qpdf
 version: 12.4.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/qpdf-12.4.2-android-36-arm64-v8a.release.tar.xz
-bin-sha: d5a40ee336685435e80228e5428ad966e79a2b5848c9d85c89239fc125df64c0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/qpdf-12.4.2-android-36-arm64-v8a.release.tar.xz
+bin-sha: 8b3ccd3a6842b880a8540f485c44cc289e91365253a1a42be4eb9fa5a6225819

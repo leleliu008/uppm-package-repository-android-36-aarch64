@@ -1,5 +1,5 @@
 summary: line breaking and word breaking algorithms
 webpage: https://github.com/adah1972/libunibreak
-version: 8.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libunibreak-8.0-android-36-arm64-v8a.release.tar.xz
-bin-sha: fcdc693d5d8232cb04d6741a16b2b4f0c81b42990e7f291099ae0ffc79ee9705
+version: 8.0.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/libunibreak-8.0.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: 50ab8f275ec8cc7e53cc33d0ec22e0ebcfdc03699bc810b5c27514235cb4febc

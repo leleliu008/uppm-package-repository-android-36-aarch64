@@ -1,5 +1,5 @@
 summary: A parser generator tool
 webpage: https://tree-sitter.github.io/
 version: 0.27.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/tree-sitter-0.27.2-android-36-arm64-v8a.release.tar.xz
-bin-sha: f09eeb81fd0143c28a4dee1f8164dbec1e5a427194e7bb7fe82588b91ecda40f
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/tree-sitter-0.27.2-android-36-arm64-v8a.release.tar.xz
+bin-sha: 9ea7ebf53e4a30957195171a092df138648c3f95372b3d998adcdabd096f8aaf

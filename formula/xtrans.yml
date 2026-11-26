@@ -1,5 +1,5 @@
 summary: X.Org Network Transport layer shared code
 webpage: https://xorg.freedesktop.org/
 version: 1.6.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/xtrans-1.6.0-android-aarch64.release.tar.xz
-bin-sha: 54c5d1b9ceed74c373e9671aa8a98afef95d61fcf2b8a1accacfad1627790979
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/xtrans-1.6.0-android-aarch64.release.tar.xz
+bin-sha: f2838c6c394991cd59d68a0bf2477cc092f883f7d5c7ac998158223f8135b7a1

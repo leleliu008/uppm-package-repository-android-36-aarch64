@@ -1,5 +1,5 @@
 summary: Reimplementation of pkg-config
 webpage: https://github.com/pkgconf/pkgconf
-version: 3.0.10
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/pkgconf-3.0.10-android-36-arm64-v8a.release.tar.xz
-bin-sha: 8c78e0bd4b3e25e0025a4fdf96a26cf444c3248f5a94ca8061059510ca612547
+version: 3.0.11
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/pkgconf-3.0.11-android-36-arm64-v8a.release.tar.xz
+bin-sha: 3bcf5dc33e6f192fef815c47c7b142ff59b87fffe4cebed7cc42e86b4fb9a69c

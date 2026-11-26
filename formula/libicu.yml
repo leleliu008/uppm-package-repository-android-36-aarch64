@@ -1,5 +1,5 @@
 summary: C/C++ libraries for Unicode and globalization
 webpage: http://site.icu-project.org/home
 version: 79.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libicu-79.1-android-36-arm64-v8a.release.tar.xz
-bin-sha: d99a909ef9bc2be0dc53cd44a9986c380da9a9130fd71a53cc81cce0b8a65fa5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/libicu-79.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: 523916d074863fdd7731052ab65f71eaa0c8a8c9d030b3dc1bc6c8fca0bd2c6f

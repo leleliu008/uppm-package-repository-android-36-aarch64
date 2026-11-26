@@ -1,5 +1,5 @@
 summary: Compiler infrastructure and toolchain library for WebAssembly
 webpage: https://webassembly.org/
 version: 133
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/binaryen-133-android-36-arm64-v8a.release.tar.xz
-bin-sha: 89132fcfcfa1bb85b59dd290234c2d2b59d9f4cbee09499649f997358f746f22
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/binaryen-133-android-36-arm64-v8a.release.tar.xz
+bin-sha: a7e46e7999da881c25b0d4f5962a8d8c59ce4299280a497f075a8eb2357a885f

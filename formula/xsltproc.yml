@@ -1,5 +1,5 @@
 summary: A command line tool for applying XSLT stylesheets to XML documents
 webpage: https://gitlab.gnome.org/GNOME/libxslt
 version: 1.1.45
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/xsltproc-1.1.45-android-36-arm64-v8a.release.tar.xz
-bin-sha: 312355b71e0a95200f7ab4e3abee52109fa373e5f32c347ef2688e02220a37d8
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/xsltproc-1.1.45-android-36-arm64-v8a.release.tar.xz
+bin-sha: a9b0184688a5715f9a0d1c0efe81ef54425f159744184a737a9a9c98105451fb

@@ -1,5 +1,5 @@
 summary: A collection of tools for JPEG-2000 image manipulation
 webpage: https://www.openjpeg.org/
 version: 2.5.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/openjpeg-2.5.4-android-36-arm64-v8a.release.tar.xz
-bin-sha: a671a898168ea510c4b005ec3ef941fb7acf7d092eac2dea2c0b3105a2b3453d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/openjpeg-2.5.4-android-36-arm64-v8a.release.tar.xz
+bin-sha: 28126900f02c8bb1aa49b0db9be027f205d6efcb4199b83f09d15339c5cc13d1

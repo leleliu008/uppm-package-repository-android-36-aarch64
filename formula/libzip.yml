@@ -1,5 +1,5 @@
 summary: C library for reading, creating, and modifying zip archives
 webpage: https://libzip.org/
 version: 1.12.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/libzip-1.12.1-android-36-arm64-v8a.release.tar.xz
-bin-sha: 8144536deefe771dba4f1de21f03257721f44aa288463b0a624a0c99eb157a35
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/libzip-1.12.1-android-36-arm64-v8a.release.tar.xz
+bin-sha: 06c47799e50e17edf70300e800847e6b92f040d1d336dfafa45fae324dab75e9

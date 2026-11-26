@@ -1,5 +1,5 @@
 summary: Lightweight PDF and XPS viewer
 webpage: https://mupdf.com/
 version: 1.28.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.17.1/mupdf-1.28.6-android-36-arm64-v8a.release.tar.xz
-bin-sha: 85fc205e38cfee88072dd8d38602131f76c73d071f002dc30a3991163c6848ae
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-36-aarch64/releases/download/2026.11.26.1/mupdf-1.28.6-android-36-arm64-v8a.release.tar.xz
+bin-sha: 9fcd47eabad9b34b266bb49a076f2e5a4f5baca0c6c2a4bea0f25e5dd21b418f
